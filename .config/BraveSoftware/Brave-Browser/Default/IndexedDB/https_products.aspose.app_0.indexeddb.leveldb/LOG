@@ -1,6 +1,0 @@
-2024/11/06-09:35:44.803 2446 Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_products.aspose.app_0.indexeddb.leveldb since it was missing.
-2024/11/06-09:35:44.810 2446 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_products.aspose.app_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/06-09:36:16.392 2447 Level-0 table #5: started
-2024/11/06-09:36:16.395 2447 Level-0 table #5: 1780 bytes OK
-2024/11/06-09:36:16.399 2447 Delete type=0 #3
-2024/11/06-09:36:16.400 2447 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

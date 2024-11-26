@@ -1,7 +1,0 @@
-2024/11/16-23:24:32.088 82a Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hellosehat.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/16-23:24:32.089 82a Recovering log #22
-2024/11/16-23:24:32.089 82a Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hellosehat.com_0.indexeddb.leveldb/000022.log 
-2024/11/16-23:24:32.099 82c Level-0 table #28: started
-2024/11/16-23:24:32.102 82c Level-0 table #28: 630 bytes OK
-2024/11/16-23:24:32.104 82c Delete type=0 #22
-2024/11/16-23:24:32.105 82b Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

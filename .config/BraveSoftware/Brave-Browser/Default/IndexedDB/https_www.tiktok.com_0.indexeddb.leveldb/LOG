@@ -1,6 +1,0 @@
-2024/09/17-09:48:51.895 a4e Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb since it was missing.
-2024/09/17-09:48:51.908 a4e Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/17-09:49:38.856 a4c Level-0 table #5: started
-2024/09/17-09:49:38.861 a4c Level-0 table #5: 1290 bytes OK
-2024/09/17-09:49:38.865 a4c Delete type=0 #3
-2024/09/17-09:49:38.867 a4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

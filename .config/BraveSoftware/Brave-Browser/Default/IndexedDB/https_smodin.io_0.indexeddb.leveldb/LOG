@@ -1,7 +1,0 @@
-2024/11/23-18:48:45.592 d80 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smodin.io_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/23-18:48:45.592 d80 Recovering log #6
-2024/11/23-18:48:45.593 d80 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_smodin.io_0.indexeddb.leveldb/000006.log 
-2024/11/23-18:48:45.737 d81 Level-0 table #11: started
-2024/11/23-18:48:45.740 d81 Level-0 table #11: 793 bytes OK
-2024/11/23-18:48:45.742 d81 Delete type=0 #6
-2024/11/23-18:48:45.743 d7f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

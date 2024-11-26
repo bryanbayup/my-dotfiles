@@ -1,1 +1,0 @@
-onmessage=function(e){if("crop"===e.data.action){var a=e.data.readable,r=e.data.writable,o=e.data.visibleRect;a.pipeThrough(new TransformStream({transform(e,a){var r=new VideoFrame(e,{visibleRect:o});a.enqueue(r),e.close()}})).pipeTo(r),postMessage({action:"crop-worker"})}};

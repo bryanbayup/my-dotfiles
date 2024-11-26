@@ -1,6 +1,0 @@
-2024/10/06-16:41:05.442 13b1 Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fictional-acorn-x4vx55g5x73v9x7.github.dev_0.indexeddb.leveldb since it was missing.
-2024/10/06-16:41:05.449 13b1 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fictional-acorn-x4vx55g5x73v9x7.github.dev_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/07-08:50:35.156 13b2 Level-0 table #5: started
-2024/10/07-08:50:35.163 13b2 Level-0 table #5: 220136 bytes OK
-2024/10/07-08:50:35.167 13b2 Delete type=0 #3
-2024/10/07-08:50:35.167 13b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
