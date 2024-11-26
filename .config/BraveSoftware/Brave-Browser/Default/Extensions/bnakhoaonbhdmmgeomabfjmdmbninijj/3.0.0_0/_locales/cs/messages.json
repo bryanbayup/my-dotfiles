@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Funkce pohonu"
+   },
+   "Help": {
+      "message": "Jak používat nápovědu"
+   },
+   "Homepage": {
+      "message": "Domovská stránka"
+   },
+   "RateUs": {
+      "message": "Ohodnoťte nás!"
+   },
+   "appDescription": {
+      "message": "Pořiďte si selfie pomocí fotoaparátu pomocí našich bezplatných zábavných efektů."
+   },
+   "appName": {
+      "message": "Webová kamera pro Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "webová kamera"
+   },
+   "msg_1": {
+      "message": "Webová kamera"
+   },
+   "msg_10": {
+      "message": "Stačí vybrat efekt kamery a kliknout na tlačítko"
+   },
+   "msg_11": {
+      "message": "VYFOTIT"
+   },
+   "msg_12": {
+      "message": "Vyberte fotografický efekt, pomocí posuvníku upravte minimální a maximální hodnoty a pořiďte snímek kliknutím na tlačítko „Vyfotit“."
+   },
+   "msg_13": {
+      "message": "Momentálně nelze pořizovat fotografie, omlouváme se ..."
+   },
+   "msg_14": {
+      "message": "Průhledná"
+   },
+   "msg_15": {
+      "message": "Uložte svou fotografii"
+   },
+   "msg_16": {
+      "message": "Vaše fotografie"
+   },
+   "msg_17": {
+      "message": "Zavřít"
+   },
+   "msg_2": {
+      "message": "pro Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Klikněte na ikonu"
+   },
+   "msg_4": {
+      "message": "ROZHODNĚTE SE"
+   },
+   "msg_5": {
+      "message": "vyzkoušejte naše zábavné efekty"
+   },
+   "msg_6": {
+      "message": "Všimněte si prosím, relace selfies již běží, všechna vaše data budou ztracena, jakmile spustíte novou."
+   },
+   "msg_7": {
+      "message": "Zahajte relaci selfie"
+   },
+   "msg_8": {
+      "message": "Jsi si jistá?"
+   },
+   "msg_9": {
+      "message": "Ujistěte se, že žádné jiné webové stránky a programy, které mohou používat vaši kameru (Skype, chat atd.)"
+   },
+   "name_1": {
+      "message": "Normální"
+   },
+   "name_2": {
+      "message": "Stupně šedi"
+   },
+   "name_3": {
+      "message": "Sépie"
+   },
+   "name_4": {
+      "message": "Invertovat"
+   },
+   "name_5": {
+      "message": "Odstín"
+   },
+   "name_6": {
+      "message": "Rozmazat"
+   },
+   "name_7": {
+      "message": "Kontrast"
+   }
+}

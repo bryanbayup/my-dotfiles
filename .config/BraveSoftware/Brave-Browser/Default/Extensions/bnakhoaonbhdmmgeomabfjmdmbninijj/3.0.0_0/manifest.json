@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-38.png"
+      },
+      "default_popup": "pages/popup.html",
+      "default_title": "__MSG_browserActionTitle__"
+   },
+   "background": {
+      "service_worker": "/scripts/background-mv3.js"
+   },
+   "container": [ "GOOGLE_DRIVE" ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "homepage_url": "https://web-camera.freespeedcheck.net",
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmTJzFiBY/hNxVDPhzEBtmBBreRJNogElSbEi45FaTmf/n7bOcr0e9iTrxF2qCrLOBhuLTzSVmL270TMIQjKfxfWRuQURSkJvn56/Jfy/NM4QSFeu/PL76Y59su29iXMoFTQ+EuQqfAa3wXy9EMCuM46J4M4OW/O0c6ejW4HtMVaatApHuZDTHzcvoWPKljWTvb10+lbXrP6vDVH/1rK/sSc0IdA23tAqbiG2ojQmkoYVbi8fh4jNpe4T0FqPS2NcmUG2El5J42mA1vn1ChtObUFwt6eAifmPaJHWFmgiR7lo+T75sZtFK2QTQkrLLf4ytfUrVfFEIuUtopXugvfQeQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.0"
+}

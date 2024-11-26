@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Ciri pemanduan"
+   },
+   "Help": {
+      "message": "Cara Menggunakan Bantuan"
+   },
+   "Homepage": {
+      "message": "Laman utama"
+   },
+   "RateUs": {
+      "message": "Sila Berikan Kami!"
+   },
+   "appDescription": {
+      "message": "Ambil gambar selfie dengan kamera anda menggunakan kesan menyeronokkan percuma kami."
+   },
+   "appName": {
+      "message": "Kamera Web untuk Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "kamera sesawang"
+   },
+   "msg_1": {
+      "message": "Kamera sesawang"
+   },
+   "msg_10": {
+      "message": "Cukup pilih kesan kamera dan klik butang"
+   },
+   "msg_11": {
+      "message": "MENGAMBIL GAMBAR"
+   },
+   "msg_12": {
+      "message": "Pilih kesan foto, sesuaikan nilai min-max melalui slaid, dan klik butang &quot;Ambil foto&quot; untuk mengambil gambar anda."
+   },
+   "msg_13": {
+      "message": "Tidak Dapat Mengambil Foto Sekarang, Maaf ..."
+   },
+   "msg_14": {
+      "message": "Jelas"
+   },
+   "msg_15": {
+      "message": "Simpan Foto Anda"
+   },
+   "msg_16": {
+      "message": "Foto anda"
+   },
+   "msg_17": {
+      "message": "Tutup"
+   },
+   "msg_2": {
+      "message": "untuk Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Klik"
+   },
+   "msg_4": {
+      "message": "AMBIL DIRI"
+   },
+   "msg_5": {
+      "message": "untuk mencuba kesan menyeronokkan kami"
+   },
+   "msg_6": {
+      "message": "Harap maklum, sesi selfie sudah berjalan, semua data anda akan hilang setelah anda memulakan yang baru."
+   },
+   "msg_7": {
+      "message": "Mulakan sesi selfie"
+   },
+   "msg_8": {
+      "message": "Adakah anda pasti?"
+   },
+   "msg_9": {
+      "message": "Pastikan tiada laman web dan program lain yang mungkin menggunakan kamera anda (Skype, sembang, dll.)"
+   },
+   "name_1": {
+      "message": "normal"
+   },
+   "name_2": {
+      "message": "Skala kelabu"
+   },
+   "name_3": {
+      "message": "Sepia"
+   },
+   "name_4": {
+      "message": "Balikkan"
+   },
+   "name_5": {
+      "message": "Hue"
+   },
+   "name_6": {
+      "message": "Blur"
+   },
+   "name_7": {
+      "message": "bezakan"
+   }
+}

@@ -1,0 +1,13 @@
+2024/11/20-23:21:16.564 911 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/20-23:21:16.566 911 Recovering log #62
+2024/11/20-23:21:16.566 911 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/000062.log 
+2024/11/20-23:21:16.582 91f Level-0 table #68: started
+2024/11/20-23:21:16.586 91f Level-0 table #68: 809 bytes OK
+2024/11/20-23:21:16.590 91f Delete type=0 #62
+2024/11/20-23:21:16.591 91d Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/20-23:21:38.997 911 Compacting 1@1 + 1@2 files
+2024/11/20-23:21:39.005 911 Generated table #69@1: 46 keys, 3996 bytes
+2024/11/20-23:21:39.005 911 Compacted 1@1 + 1@2 files => 3996 bytes
+2024/11/20-23:21:39.008 911 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/20-23:21:39.010 911 Delete type=2 #68
+2024/11/20-23:21:39.010 911 Delete type=2 #65

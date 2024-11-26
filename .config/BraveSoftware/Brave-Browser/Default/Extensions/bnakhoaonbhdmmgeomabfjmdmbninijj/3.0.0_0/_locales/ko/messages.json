@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "드라이브 기능"
+   },
+   "Help": {
+      "message": "도움말 사용 방법"
+   },
+   "Homepage": {
+      "message": "홈페이지"
+   },
+   "RateUs": {
+      "message": "우리를 평가하십시오!"
+   },
+   "appDescription": {
+      "message": "무료 재미있는 효과를 사용하여 카메라로 셀카를 찍어보세요."
+   },
+   "appName": {
+      "message": "Google Chrome™용 웹 카메라"
+   },
+   "appShortName": {
+      "message": "웹 카메라"
+   },
+   "msg_1": {
+      "message": "웹 카메라"
+   },
+   "msg_10": {
+      "message": "카메라 효과를 선택하고 버튼을 클릭하기만 하면 됩니다."
+   },
+   "msg_11": {
+      "message": "사진을 찍다"
+   },
+   "msg_12": {
+      "message": "사진 효과를 선택하고 슬라이더를 통해 최소-최대 값을 조정하고 &quot;사진 찍기&quot; 버튼을 클릭하여 스냅 사진을 찍습니다."
+   },
+   "msg_13": {
+      "message": "지금은 사진을 찍을 수 없습니다, 죄송합니다..."
+   },
+   "msg_14": {
+      "message": "명확한"
+   },
+   "msg_15": {
+      "message": "사진 저장"
+   },
+   "msg_16": {
+      "message": "당신의 사진"
+   },
+   "msg_17": {
+      "message": "닫기"
+   },
+   "msg_2": {
+      "message": "Google 크롬 ™용"
+   },
+   "msg_3": {
+      "message": "클릭"
+   },
+   "msg_4": {
+      "message": "셀카 찍기"
+   },
+   "msg_5": {
+      "message": "재미있는 효과를 보기 위해"
+   },
+   "msg_6": {
+      "message": "셀카 세션이 이미 실행 중이며 새 세션을 시작한 후에는 모든 데이터가 손실됩니다."
+   },
+   "msg_7": {
+      "message": "셀카 세션 시작"
+   },
+   "msg_8": {
+      "message": "확실해?"
+   },
+   "msg_9": {
+      "message": "카메라를 사용 중일 수 있는 다른 웹사이트 및 프로그램(Skype, 채팅 등)이 없는지 확인하십시오."
+   },
+   "name_1": {
+      "message": "표준"
+   },
+   "name_2": {
+      "message": "그레이스케일"
+   },
+   "name_3": {
+      "message": "세피아"
+   },
+   "name_4": {
+      "message": "거꾸로 하다"
+   },
+   "name_5": {
+      "message": "색조"
+   },
+   "name_6": {
+      "message": "흐림"
+   },
+   "name_7": {
+      "message": "대조"
+   }
+}

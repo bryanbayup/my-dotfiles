@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Značajka pogona"
+   },
+   "Help": {
+      "message": "Kako koristiti pomoć"
+   },
+   "Homepage": {
+      "message": "Početna stranica"
+   },
+   "RateUs": {
+      "message": "Molimo ocijenite nas!"
+   },
+   "appDescription": {
+      "message": "Snimajte selfije kamerom pomoću naših besplatnih zabavnih efekata."
+   },
+   "appName": {
+      "message": "Web kamera za Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "web kamera"
+   },
+   "msg_1": {
+      "message": "Web kamera"
+   },
+   "msg_10": {
+      "message": "Samo odaberite efekt kamere i kliknite gumb"
+   },
+   "msg_11": {
+      "message": "USLIKAJ"
+   },
+   "msg_12": {
+      "message": "Odaberite foto efekt, podesite min-max vrijednosti pomoću klizača i kliknite gumb &quot;Snimi fotografiju&quot; da biste snimili fotografiju."
+   },
+   "msg_13": {
+      "message": "Trenutno ne mogu fotografirati, nažalost ..."
+   },
+   "msg_14": {
+      "message": "Čisto"
+   },
+   "msg_15": {
+      "message": "Spremite svoju fotografiju"
+   },
+   "msg_16": {
+      "message": "Vaše fotografije"
+   },
+   "msg_17": {
+      "message": "Blizu"
+   },
+   "msg_2": {
+      "message": "za Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Pritisnite"
+   },
+   "msg_4": {
+      "message": "UZIMAJTE SEBE"
+   },
+   "msg_5": {
+      "message": "isprobajte naše zabavne efekte"
+   },
+   "msg_6": {
+      "message": "Imajte na umu, selfi sesija već traje, svi vaši podaci bit će izgubljeni nakon što započnete novu."
+   },
+   "msg_7": {
+      "message": "Započni selfi sesiju"
+   },
+   "msg_8": {
+      "message": "Jesi li siguran?"
+   },
+   "msg_9": {
+      "message": "Budite sigurni da nema drugih web stranica i programa koji možda koriste vašu kameru (Skype, chat itd.)"
+   },
+   "name_1": {
+      "message": "Normalan"
+   },
+   "name_2": {
+      "message": "Nijanse sive"
+   },
+   "name_3": {
+      "message": "Sepija"
+   },
+   "name_4": {
+      "message": "Invert"
+   },
+   "name_5": {
+      "message": "nijansa"
+   },
+   "name_6": {
+      "message": "zamagliti"
+   },
+   "name_7": {
+      "message": "Kontrast"
+   }
+}

@@ -1,0 +1,12 @@
+2024/11/26-09:44:15.893 4 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/26-09:44:15.908 4 Recovering log #4268
+2024/11/26-09:44:15.909 4 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/004268.log 
+2024/11/26-09:44:38.102 4 Level-0 table #4275: started
+2024/11/26-09:44:38.116 4 Level-0 table #4275: 76978 bytes OK
+2024/11/26-09:44:38.124 4 Delete type=0 #4268
+2024/11/26-09:56:04.275 5 Level-0 table #4277: started
+2024/11/26-09:56:04.285 5 Level-0 table #4277: 19016 bytes OK
+2024/11/26-09:56:04.292 5 Delete type=0 #4274
+2024/11/26-10:04:45.070 4 Level-0 table #4279: started
+2024/11/26-10:04:45.080 4 Level-0 table #4279: 20824 bytes OK
+2024/11/26-10:04:45.087 4 Delete type=0 #4276

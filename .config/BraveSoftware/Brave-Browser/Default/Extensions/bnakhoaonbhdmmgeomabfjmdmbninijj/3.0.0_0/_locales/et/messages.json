@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Sõidu funktsioon"
+   },
+   "Help": {
+      "message": "Kuidas abi kasutada"
+   },
+   "Homepage": {
+      "message": "Koduleht"
+   },
+   "RateUs": {
+      "message": "Palun hinnake meid!"
+   },
+   "appDescription": {
+      "message": "Tehke oma kaameraga selfisid, kasutades meie tasuta lõbusaid efekte."
+   },
+   "appName": {
+      "message": "Veebikaamera Google Chrome ™ jaoks"
+   },
+   "appShortName": {
+      "message": "veebikaamera"
+   },
+   "msg_1": {
+      "message": "Veebikaamera"
+   },
+   "msg_10": {
+      "message": "Valige lihtsalt kaamera efekt ja klõpsake nuppu"
+   },
+   "msg_11": {
+      "message": "PILDISTAMA"
+   },
+   "msg_12": {
+      "message": "Valige fotoefekt, reguleerige liuguri abil min-max väärtusi ja klõpsake hetke pildistamiseks nuppu „Pildista“."
+   },
+   "msg_13": {
+      "message": "Kahjuks ei saa praegu pilte teha ..."
+   },
+   "msg_14": {
+      "message": "Selge"
+   },
+   "msg_15": {
+      "message": "Salvestage oma foto"
+   },
+   "msg_16": {
+      "message": "Sinu Foto"
+   },
+   "msg_17": {
+      "message": "Sulge"
+   },
+   "msg_2": {
+      "message": "Google Chrome ™ jaoks"
+   },
+   "msg_3": {
+      "message": "Klõpsake nuppu"
+   },
+   "msg_4": {
+      "message": "VÕTA SELFI"
+   },
+   "msg_5": {
+      "message": "proovige meie lõbusaid efekte"
+   },
+   "msg_6": {
+      "message": "Pange tähele, selfide seanss on juba käimas, kõik teie andmed lähevad kaotsi pärast uue alustamist."
+   },
+   "msg_7": {
+      "message": "Alustage selfide seanssi"
+   },
+   "msg_8": {
+      "message": "Oled sa kindel?"
+   },
+   "msg_9": {
+      "message": "Veenduge, et teil poleks teisi kaameraid kasutavaid veebisaite ja programme (Skype, vestlus jne)"
+   },
+   "name_1": {
+      "message": "normaalne"
+   },
+   "name_2": {
+      "message": "Halltoonid"
+   },
+   "name_3": {
+      "message": "Seepia"
+   },
+   "name_4": {
+      "message": "Pöörake"
+   },
+   "name_5": {
+      "message": "Värvitoon"
+   },
+   "name_6": {
+      "message": "udu"
+   },
+   "name_7": {
+      "message": "kontrast"
+   }
+}

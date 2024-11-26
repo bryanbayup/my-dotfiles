@@ -1,0 +1,3714 @@
+[
+    {
+        "utterances": "Anjing saya mengalami Gatal, Anoreksia, Lesu, Benjolan, Kemerahan, Hiperpigmentasi, Kerontokan rambut, Struktur rambut berbeda, Kulit kering/kasar, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Anoreksia",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu",
+                "start": 34,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Benjolan",
+                "start": 40,
+                "end": 48
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 50,
+                "end": 59
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 61,
+                "end": 76
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 78,
+                "end": 95
+            },
+            {
+                "entity": "symptom",
+                "value": "Struktur rambut berbeda",
+                "start": 97,
+                "end": 120
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar",
+                "start": 122,
+                "end": 140
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 142,
+                "end": 152
+            }
+        ],
+        "responses": "Gunakan antihistamin (hidroxyzine, chlorpheniramine), Oleskan obat topikal kortikosteroid."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Penebalan kulit, Kemerahan, Kerontokan rambut, Kulit kering/kasar, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Penebalan kulit",
+                "start": 23,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 40,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 51,
+                "end": 68
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar",
+                "start": 70,
+                "end": 88
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 90,
+                "end": 100
+            }
+        ],
+        "responses": "Cukur rambut di area infeksi, Gunakan kortikosteroid (dexametasone), Gunakan antihistamin (vetadryll)."
+    },
+    {
+        "utterances": "Anjing saya mengalami Benjolan, Kemerahan, Kerontokan rambut, Bersin, Hidung berair, Mata berair, Bercak kasar, Kulit kering/kasar, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Benjolan",
+                "start": 16,
+                "end": 24
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 26,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 37,
+                "end": 54
+            },
+            {
+                "entity": "symptom",
+                "value": "Bersin",
+                "start": 56,
+                "end": 62
+            },
+            {
+                "entity": "symptom",
+                "value": "Hidung berair",
+                "start": 64,
+                "end": 77
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata berair",
+                "start": 79,
+                "end": 90
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak kasar",
+                "start": 92,
+                "end": 104
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar",
+                "start": 106,
+                "end": 124
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 126,
+                "end": 136
+            }
+        ],
+        "responses": "Gunakan shampo dengan benzoyl peroxide, Hydrocortisone lotion/spray, Suplemen omega-3/omega-6, Obat anti radang dan alergi, Anastesi topikal untuk gatal, Suplemen asam lemak omega-3."
+    },
+    {
+        "utterances": "Anjing saya mengalami Hiperpigmentasi, Kerontokan rambut, Bercak kasar, Struktur rambut berbeda, Kulit kering/kasar, Kulit bersisik, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 16,
+                "end": 31
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 33,
+                "end": 50
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak kasar",
+                "start": 52,
+                "end": 64
+            },
+            {
+                "entity": "symptom",
+                "value": "Struktur rambut berbeda",
+                "start": 66,
+                "end": 89
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar",
+                "start": 91,
+                "end": 109
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 111,
+                "end": 125
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 127,
+                "end": 137
+            }
+        ],
+        "responses": "Berikan suplemen asam lemak essensial, Gunakan shampo antimikroba, Bilas dengan conditioner."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Anoreksia, Lesu, Pembengkakan, Kerontokan rambut, Kulit kering/kasar, Kulit bersisik, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Anoreksia",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu",
+                "start": 34,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan",
+                "start": 40,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 54,
+                "end": 71
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar",
+                "start": 73,
+                "end": 91
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 93,
+                "end": 107
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 109,
+                "end": 119
+            }
+        ],
+        "responses": "Mandi dengan shampo yang mengandung sulfur 0,5% dan chlorhexidine 0,5%, dilakukan 2 kali seminggu."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Benjolan, Kemerahan, Hiperpigmentasi, Kulit bernanah, Kerontokan rambut, Bercak kasar pada kulit, Kulit bersisik, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Benjolan",
+                "start": 23,
+                "end": 31
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 33,
+                "end": 42
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 44,
+                "end": 59
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bernanah",
+                "start": 61,
+                "end": 75
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 77,
+                "end": 94
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak kasar pada kulit",
+                "start": 96,
+                "end": 119
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 121,
+                "end": 135
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 137,
+                "end": 147
+            }
+        ],
+        "responses": "Gunakan obat antiparasit seperti ivermectin atau selamectin, Mandikan dengan shampo antiseptik, Obat topikal kortikosteroid untuk mengurangi inflamasi, Isolasi hewan yang terinfeksi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Kemerahan, Hiperpigmentasi, Kulit bernanah, Kerontokan rambut, Bercak kasar pada kulit, Kulit bersisik, Kebotakan, Luka pada wajah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 34,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bernanah",
+                "start": 51,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 67,
+                "end": 84
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak kasar pada kulit",
+                "start": 86,
+                "end": 109
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 111,
+                "end": 125
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan",
+                "start": 127,
+                "end": 136
+            },
+            {
+                "entity": "symptom",
+                "value": "Luka pada wajah.",
+                "start": 138,
+                "end": 154
+            }
+        ],
+        "responses": "Gunakan antifungal oral seperti griseofulvin atau terbinafine, Obat topikal antijamur (ketoconazole), Mandikan dengan shampo antijamur, Isolasi untuk mencegah penyebaran."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Anoreksia, Penebalan kulit, Kemerahan, Luka pada hidung, Kulit bersisik, Luka pada wajah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Anoreksia",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Penebalan kulit",
+                "start": 34,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 51,
+                "end": 60
+            },
+            {
+                "entity": "symptom",
+                "value": "Luka pada hidung",
+                "start": 62,
+                "end": 78
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 80,
+                "end": 94
+            },
+            {
+                "entity": "symptom",
+                "value": "Luka pada wajah.",
+                "start": 96,
+                "end": 112
+            }
+        ],
+        "responses": "Gunakan kortikosteroid sistemik (prednisolone), Berikan obat immunosuppressant seperti azathioprine, Mandikan dengan shampo ringan untuk mengurangi kerak dan sisik."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Anoreksia, Lesu, Kemerahan, Hiperpigmentasi, Kerontokan rambut, Luka pada hidung, Kulit bersisik, Kebotakan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Anoreksia",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu",
+                "start": 34,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 40,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 51,
+                "end": 66
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 68,
+                "end": 85
+            },
+            {
+                "entity": "symptom",
+                "value": "Luka pada hidung",
+                "start": 87,
+                "end": 103
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bersisik",
+                "start": 105,
+                "end": 119
+            },
+            {
+                "entity": "symptom",
+                "value": "Kebotakan.",
+                "start": 121,
+                "end": 131
+            }
+        ],
+        "responses": "Gunakan antiparasit oral seperti ivermectin atau milbemycin, Obat topikal (amitraz) untuk membunuh kutu, Berikan perawatan tambahan untuk infeksi sekunder, Suplemen untuk meningkatkan imun."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Penebalan kulit, Benjolan, Hiperpigmentasi, Kulit bernanah, Kerontokan rambut, Bercak kasar pada kulit, Struktur rambut berbeda, Kulit kering/kasar atau kusam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Penebalan kulit",
+                "start": 23,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Benjolan",
+                "start": 40,
+                "end": 48
+            },
+            {
+                "entity": "symptom",
+                "value": "Hiperpigmentasi",
+                "start": 50,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bernanah",
+                "start": 67,
+                "end": 81
+            },
+            {
+                "entity": "symptom",
+                "value": "Kerontokan rambut",
+                "start": 83,
+                "end": 100
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak kasar pada kulit",
+                "start": 102,
+                "end": 125
+            },
+            {
+                "entity": "symptom",
+                "value": "Struktur rambut berbeda",
+                "start": 127,
+                "end": 150
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit kering/kasar atau kusam.",
+                "start": 152,
+                "end": 182
+            }
+        ],
+        "responses": "Gunakan insektisida topikal (fipronil atau selamectin), Mandikan dengan shampo insektisida, Lakukan pengobatan berulang setiap 2 minggu untuk membasmi kutu dewasa dan telur."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Muntah, Diare berdarah, Lemas, Kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 23,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "Diare berdarah",
+                "start": 31,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas",
+                "start": 47,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan.",
+                "start": 54,
+                "end": 77
+            }
+        ],
+        "responses": "Terapi cairan IV untuk mencegah dehidrasi, Berikan antibiotik untuk mencegah infeksi sekunder, Gunakan antiemetik (ondansetron) untuk mengurangi muntah."
+    },
+    {
+        "utterances": "Anjing saya mengalami Batuk, Demam, Kehilangan nafsu makan, Lemas, Konjungtivitis, Hidung berair. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 23,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan",
+                "start": 30,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas",
+                "start": 54,
+                "end": 59
+            },
+            {
+                "entity": "symptom",
+                "value": "Konjungtivitis",
+                "start": 61,
+                "end": 75
+            },
+            {
+                "entity": "symptom",
+                "value": "Hidung berair.",
+                "start": 77,
+                "end": 91
+            }
+        ],
+        "responses": "Isolasi hewan yang terinfeksi, Berikan antibiotik untuk infeksi bakteri sekunder, Terapi suportif termasuk cairan IV dan suplemen nutrisi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Agitasi, Kejang, Salivasi berlebihan, Takut air (hidrofobia). Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Agitasi",
+                "start": 23,
+                "end": 30
+            },
+            {
+                "entity": "symptom",
+                "value": "Kejang",
+                "start": 32,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Salivasi berlebihan",
+                "start": 40,
+                "end": 59
+            },
+            {
+                "entity": "symptom",
+                "value": "Takut air (hidrofobia).",
+                "start": 61,
+                "end": 84
+            }
+        ],
+        "responses": "Vaksinasi sebagai tindakan pencegahan, Tidak ada pengobatan spesifik setelah gejala muncul, Isolasi dan laporkan ke otoritas kesehatan hewan setempat."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Pembengkakan perut, Kulit menguning (jaundice), Pendarahan, Kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan perut",
+                "start": 23,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit menguning (jaundice)",
+                "start": 43,
+                "end": 69
+            },
+            {
+                "entity": "symptom",
+                "value": "Pendarahan",
+                "start": 71,
+                "end": 81
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan.",
+                "start": 83,
+                "end": 106
+            }
+        ],
+        "responses": "Terapi cairan IV untuk hidrasi, Berikan antibiotik untuk infeksi sekunder, Terapi simptomatik untuk mengurangi gejala, seperti antiinflamasi dan obat penenang."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Muntah, Kulit dan mata menguning (jaundice), Kehilangan nafsu makan, Lemas. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 23,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit dan mata menguning (jaundice)",
+                "start": 31,
+                "end": 66
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan",
+                "start": 68,
+                "end": 90
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas.",
+                "start": 92,
+                "end": 98
+            }
+        ],
+        "responses": "Berikan antibiotik seperti doxycycline atau penicillin, Terapi cairan IV untuk hidrasi, Pantau fungsi ginjal dan hati secara berkala selama masa perawatan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Kulit gatal, kemerahan, kerontokan rambut, luka terbuka. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit gatal",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "kemerahan",
+                "start": 29,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan rambut",
+                "start": 40,
+                "end": 57
+            },
+            {
+                "entity": "symptom",
+                "value": "luka terbuka.",
+                "start": 59,
+                "end": 72
+            }
+        ],
+        "responses": "Pemberian obat antiparasit seperti ivermectin atau selamectin, menjaga kebersihan lingkungan, dan memandikan anjing dengan sampo antiseptik."
+    },
+    {
+        "utterances": "Anjing saya mengalami Bercak merah, gatal berlebihan, kerontokan rambut pada area tertentu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak merah",
+                "start": 16,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "gatal berlebihan",
+                "start": 30,
+                "end": 46
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan rambut pada area tertentu.",
+                "start": 48,
+                "end": 85
+            }
+        ],
+        "responses": "Penggunaan antiparasit topikal atau oral seperti ivermectin, serta antibiotik jika terdapat infeksi sekunder."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal pada telinga, kepala miring, bau tidak sedap dari telinga. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal pada telinga",
+                "start": 16,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "kepala miring",
+                "start": 36,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "bau tidak sedap dari telinga.",
+                "start": 51,
+                "end": 80
+            }
+        ],
+        "responses": "Pembersihan telinga secara rutin, pemberian antibiotik jika ada infeksi bakteri, dan obat tetes antiinflamasi untuk mengurangi peradangan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Bercak bulat merah, gatal, kerontokan rambut di sekitar bercak. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bercak bulat merah",
+                "start": 16,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "gatal",
+                "start": 36,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan rambut di sekitar bercak.",
+                "start": 43,
+                "end": 79
+            }
+        ],
+        "responses": "Penggunaan antijamur topikal seperti miconazole atau clotrimazole, serta sampo khusus antijamur."
+    },
+    {
+        "utterances": "Anjing saya mengalami Diare, penurunan berat badan, kotoran berdarah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Diare",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan",
+                "start": 23,
+                "end": 44
+            },
+            {
+                "entity": "symptom",
+                "value": "kotoran berdarah.",
+                "start": 46,
+                "end": 63
+            }
+        ],
+        "responses": "Pemberian antibiotik seperti sulfadimethoxine dan terapi cairan untuk mencegah dehidrasi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, kehilangan nafsu makan, lemas, anemia. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kehilangan nafsu makan",
+                "start": 23,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "lemas",
+                "start": 47,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "anemia.",
+                "start": 54,
+                "end": 61
+            }
+        ],
+        "responses": "Pemberian antibiotik seperti doxycycline dan terapi suportif sesuai kebutuhan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Sulit buang air kecil, Urine berdarah (hematuria), Nyeri pada perut. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Sulit buang air kecil",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "Urine berdarah (hematuria)",
+                "start": 39,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri pada perut.",
+                "start": 67,
+                "end": 84
+            }
+        ],
+        "responses": "Terapi cairan untuk membantu pelarutan batu, Pembedahan jika batu besar, Diet khusus untuk mengurangi pembentukan batu."
+    },
+    {
+        "utterances": "Anjing saya mengalami Diare, Muntah, Kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Diare",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 23,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan.",
+                "start": 31,
+                "end": 54
+            }
+        ],
+        "responses": "Berikan cairan IV untuk mencegah dehidrasi, Obat antiemetik (ondansetron), Berikan makanan ringan dan mudah dicerna."
+    },
+    {
+        "utterances": "Anjing saya mengalami Batuk, Demam, Kehilangan nafsu makan, Lemas. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 23,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan",
+                "start": 30,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas.",
+                "start": 54,
+                "end": 60
+            }
+        ],
+        "responses": "Isolasi hewan yang terinfeksi, Terapi suportif, Berikan antibiotik untuk infeksi sekunder, Cairan IV jika diperlukan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Batuk kering, Kehilangan nafsu makan, Lemas. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk kering",
+                "start": 16,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan",
+                "start": 30,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas.",
+                "start": 54,
+                "end": 60
+            }
+        ],
+        "responses": "Pemberian antibiotik (doxycycline), Obat batuk untuk mengurangi iritasi, Isolasi untuk mencegah penularan ke anjing lain."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Nyeri sendi, Lemas, Kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri sendi",
+                "start": 23,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas",
+                "start": 36,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan.",
+                "start": 43,
+                "end": 66
+            }
+        ],
+        "responses": "Antibiotik (doxycycline atau amoxicillin), Terapi suportif, Pemantauan kondisi sendi, Berikan suplemen untuk kesehatan sendi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Demam, Lemas, Perut membesar, Kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas",
+                "start": 23,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "Perut membesar",
+                "start": 30,
+                "end": 44
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan.",
+                "start": 46,
+                "end": 69
+            }
+        ],
+        "responses": "Operasi pengangkatan rahim (ovariohisterektomi), Terapi antibiotik setelah operasi, Terapi cairan IV untuk mencegah dehidrasi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal di telinga, Kotoran berlebihan, Bau tidak sedap. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal di telinga",
+                "start": 16,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Kotoran berlebihan",
+                "start": 34,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "Bau tidak sedap.",
+                "start": 54,
+                "end": 70
+            }
+        ],
+        "responses": "Pemberian obat tetes telinga antiparasit (selamectin atau moxidectin), Pembersihan telinga secara rutin, Perawatan lanjutan jika infeksi sekunder terjadi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Bengkak pada mata, Mata merah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bengkak pada mata",
+                "start": 16,
+                "end": 33
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata merah.",
+                "start": 35,
+                "end": 46
+            }
+        ],
+        "responses": "Operasi untuk mengembalikan posisi kelenjar air mata (repositioning surgery), Penggunaan obat antiinflamasi topikal setelah operasi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Bau tidak sedap dari anus, Sering menggaruk atau menggigit area anus. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bau tidak sedap dari anus",
+                "start": 16,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering menggaruk atau menggigit area anus.",
+                "start": 43,
+                "end": 85
+            }
+        ],
+        "responses": "Pengosongan kelenjar secara manual oleh dokter hewan, Pemberian antibiotik jika ada infeksi, Terapi diet untuk mencegah kekambuhan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gusi pucat, Nafas cepat, Lesu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gusi pucat",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "Nafas cepat",
+                "start": 28,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu.",
+                "start": 41,
+                "end": 46
+            }
+        ],
+        "responses": "Transfusi darah jika diperlukan, Terapi suplemen zat besi, Pemeriksaan dan penanganan penyebab dasar anemia (infeksi, parasit)."
+    },
+    {
+        "utterances": "Anjing saya mengalami Nyeri sendi, Kesulitan bergerak, Kekakuan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri sendi",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "Kesulitan bergerak",
+                "start": 29,
+                "end": 47
+            },
+            {
+                "entity": "symptom",
+                "value": "Kekakuan.",
+                "start": 49,
+                "end": 58
+            }
+        ],
+        "responses": "Obat antiinflamasi nonsteroid (NSAID), Terapi fisik, Suplemen glukosamin dan kondroitin, Pengelolaan berat badan untuk mengurangi tekanan pada sendi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Gatal, Kemerahan, Pembengkakan di area tertentu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 23,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan di area tertentu.",
+                "start": 34,
+                "end": 64
+            }
+        ],
+        "responses": "Antihistamin (cetirizine atau diphenhydramine), Steroid topikal (hydrocortisone), Diet eliminasi untuk mengidentifikasi alergi makanan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Mual, Kurang nafsu makan, Stres. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mual",
+                "start": 16,
+                "end": 20
+            },
+            {
+                "entity": "symptom",
+                "value": "Kurang nafsu makan",
+                "start": 22,
+                "end": 40
+            },
+            {
+                "entity": "symptom",
+                "value": "Stres.",
+                "start": 42,
+                "end": 48
+            }
+        ],
+        "responses": "Berikan lingkungan yang tenang, Terapi cairan untuk hidrasi, Probiotik untuk menyeimbangkan sistem pencernaan, Pemberian makanan yang mudah dicerna."
+    },
+    {
+        "utterances": "Anjing saya mengalami Nyeri pada gigi, Pembengkakan pada wajah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri pada gigi",
+                "start": 16,
+                "end": 31
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan pada wajah.",
+                "start": 33,
+                "end": 57
+            }
+        ],
+        "responses": "Ekstraksi gigi yang terinfeksi, Pemberian antibiotik (amoxicillin), Obat penghilang rasa sakit (analgesik)."
+    },
+    {
+        "utterances": "Anjing saya mengalami Sering buang air kecil, Nyeri saat buang air kecil. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri saat buang air kecil.",
+                "start": 40,
+                "end": 67
+            }
+        ],
+        "responses": "Pemberian antibiotik (ciprofloxacin atau amoxicillin), Terapi cairan IV untuk membantu menghilangkan bakteri, Diet khusus untuk mendukung kesehatan saluran kemih."
+    },
+    {
+        "utterances": "Anjing saya mengalami Nyeri pada tulang, Lesu, Pembengkakan pada area tertentu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri pada tulang",
+                "start": 16,
+                "end": 33
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu",
+                "start": 35,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan pada area tertentu.",
+                "start": 41,
+                "end": 73
+            }
+        ],
+        "responses": "Kemoterapi untuk mengontrol pertumbuhan kanker, Analgesik (opioid) untuk mengatasi nyeri, Amputasi pada kasus tertentu untuk mencegah penyebaran kanker."
+    },
+    {
+        "utterances": "Anjing saya mengalami Batuk, Nafas pendek, Demam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Nafas pendek",
+                "start": 23,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam.",
+                "start": 37,
+                "end": 43
+            }
+        ],
+        "responses": "Antibiotik (doxycycline atau amoxicillin) jika infeksi bakteri, Terapi inhalasi dengan bronkodilator, Obat antiinflamasi untuk mengurangi peradangan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Benjolan, Kehilangan nafsu makan, Lemas. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Benjolan",
+                "start": 16,
+                "end": 24
+            },
+            {
+                "entity": "symptom",
+                "value": "Kehilangan nafsu makan",
+                "start": 26,
+                "end": 48
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas.",
+                "start": 50,
+                "end": 56
+            }
+        ],
+        "responses": "Kemoterapi, Radioterapi, Terapi paliatif untuk mengurangi gejala, Obat penghilang rasa sakit untuk kenyamanan hewan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Penglihatan kabur, Pembengkakan lensa mata. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penglihatan kabur",
+                "start": 16,
+                "end": 33
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan lensa mata.",
+                "start": 35,
+                "end": 59
+            }
+        ],
+        "responses": "Operasi katarak untuk menghilangkan lensa yang buram, Pemberian tetes mata antiinflamasi sebelum dan sesudah operasi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Lesu, Haus berlebihan, Sering buang air kecil. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesu",
+                "start": 16,
+                "end": 20
+            },
+            {
+                "entity": "symptom",
+                "value": "Haus berlebihan",
+                "start": 22,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil.",
+                "start": 39,
+                "end": 62
+            }
+        ],
+        "responses": "Diet rendah protein, Terapi cairan IV, Suplemen fosfor, Pantau fungsi ginjal secara berkala."
+    },
+    {
+        "utterances": "Anjing saya mengalami Diare, Nyeri perut, Gas berlebih. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Diare",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri perut",
+                "start": 23,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "Gas berlebih.",
+                "start": 36,
+                "end": 49
+            }
+        ],
+        "responses": "Diet tinggi serat, Pemberian probiotik, Antibiotik seperti metronidazole untuk infeksi bakteri, Obat antiinflamasi jika diperlukan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Mata merah, Gatal, Mata berair. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata merah",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 28,
+                "end": 33
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata berair.",
+                "start": 35,
+                "end": 47
+            }
+        ],
+        "responses": "Antibiotik tetes mata (chloramphenicol), Kompres hangat, Jaga kebersihan mata anjing."
+    },
+    {
+        "utterances": "Anjing saya mengalami Mata berair, Kemerahan, Nyeri pada mata. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata berair",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "Kemerahan",
+                "start": 29,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri pada mata.",
+                "start": 40,
+                "end": 56
+            }
+        ],
+        "responses": "Pemberian obat tetes antibiotik (ofloxacin), Pelindung mata untuk mencegah cedera lebih lanjut, Obat tetes mata analgesik."
+    },
+    {
+        "utterances": "Anjing saya mengalami Testis tidak turun (retensi testis). Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Testis tidak turun (retensi testis).",
+                "start": 16,
+                "end": 52
+            }
+        ],
+        "responses": "Operasi pengangkatan testis (orchiectomy) untuk mencegah risiko kanker testis dan komplikasi lainnya."
+    },
+    {
+        "utterances": "Anjing saya mengalami Haus berlebihan, Lemas, Sering buang air kecil. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Haus berlebihan",
+                "start": 16,
+                "end": 31
+            },
+            {
+                "entity": "symptom",
+                "value": "Lemas",
+                "start": 33,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil.",
+                "start": 40,
+                "end": 63
+            }
+        ],
+        "responses": "Pemberian insulin secara teratur, Diet rendah karbohidrat, Pantau kadar glukosa darah secara rutin."
+    },
+    {
+        "utterances": "Anjing saya mengalami Mata kering, Gatal, Perih. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata kering",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 29,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "Perih.",
+                "start": 36,
+                "end": 42
+            }
+        ],
+        "responses": "Pemberian obat tetes mata pelembap (artificial tears), Obat imunomodulator seperti cyclosporine untuk meningkatkan produksi air mata."
+    },
+    {
+        "utterances": "Anjing saya mengalami Pembengkakan pada telinga, Nyeri. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Pembengkakan pada telinga",
+                "start": 16,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri.",
+                "start": 43,
+                "end": 49
+            }
+        ],
+        "responses": "Operasi untuk mengeringkan darah (incision and drainage), Pembalutan untuk mencegah hematoma berulang, Pemberian antiinflamasi."
+    },
+    {
+        "utterances": "Anjing saya mengalami Kejang, Penurunan kesadaran. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kejang",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan kesadaran.",
+                "start": 24,
+                "end": 44
+            }
+        ],
+        "responses": "Obat antikonvulsan (phenobarbital atau diazepam), Pantau frekuensi kejang dan sesuaikan dosis obat sesuai kebutuhan."
+    },
+    {
+        "utterances": "Anjing saya mengalami Nyeri saat makan, Batuk, Saliva berlebih. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_anjing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Anjing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Nyeri saat makan",
+                "start": 16,
+                "end": 32
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 34,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "Saliva berlebih.",
+                "start": 41,
+                "end": 57
+            }
+        ],
+        "responses": "Antibiotik jika ada infeksi, Antiinflamasi, Diet lembut (makanan basah), Obat penghambat asam lambung (omeprazole)."
+    },
+    {
+        "utterances": "Kucing saya mengalami Lesi kulit melingkar, bulu rontok, kulit bersisik. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesi kulit melingkar",
+                "start": 16,
+                "end": 36
+            },
+            {
+                "entity": "symptom",
+                "value": "bulu rontok",
+                "start": 38,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit bersisik.",
+                "start": 51,
+                "end": 66
+            }
+        ],
+        "responses": "Pengobatan antijamur topikal atau oral, pembersihan area infeksi, dan menjaga kebersihan lingkungan untuk mencegah penularan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal hebat, lesi kulit, kerontokan bulu, kulit berkerak. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal hebat",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "lesi kulit",
+                "start": 29,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan bulu",
+                "start": 41,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit berkerak.",
+                "start": 58,
+                "end": 73
+            }
+        ],
+        "responses": "Pemberian antiparasit seperti ivermectin, pembersihan lingkungan, dan mandi dengan sampo khusus."
+    },
+    {
+        "utterances": "Kucing saya mengalami Kulit bernanah, bengkak, kemerahan, demam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kulit bernanah",
+                "start": 16,
+                "end": 30
+            },
+            {
+                "entity": "symptom",
+                "value": "bengkak",
+                "start": 32,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "kemerahan",
+                "start": 41,
+                "end": 50
+            },
+            {
+                "entity": "symptom",
+                "value": "demam.",
+                "start": 52,
+                "end": 58
+            }
+        ],
+        "responses": "Pemberian antibiotik sesuai resep dokter hewan, pembersihan area infeksi, dan perawatan luka yang tepat."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal-gatal, bulu rontok, kulit merah, sering menggaruk. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal-gatal",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "bulu rontok",
+                "start": 29,
+                "end": 40
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit merah",
+                "start": 42,
+                "end": 53
+            },
+            {
+                "entity": "symptom",
+                "value": "sering menggaruk.",
+                "start": 55,
+                "end": 72
+            }
+        ],
+        "responses": "Penggunaan antiparasit seperti fipronil, perawatan kulit dengan sampo khusus, dan pembersihan lingkungan untuk mencegah reinfestasi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Bintik hitam pada dagu, peradangan, infeksi sekunder. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bintik hitam pada dagu",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "peradangan",
+                "start": 40,
+                "end": 50
+            },
+            {
+                "entity": "symptom",
+                "value": "infeksi sekunder.",
+                "start": 52,
+                "end": 69
+            }
+        ],
+        "responses": "Pembersihan area dagu dengan antiseptik, pemberian antibiotik topikal jika diperlukan, dan menghindari penggunaan mangkuk plastik."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan, lesi kulit, demam, penurunan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "lesi kulit",
+                "start": 39,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "demam",
+                "start": 51,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan.",
+                "start": 58,
+                "end": 80
+            }
+        ],
+        "responses": "Tidak ada pengobatan spesifik; fokus pada terapi suportif, pencegahan infeksi sekunder, dan menjaga kualitas hidup kucing."
+    },
+    {
+        "utterances": "Kucing saya mengalami Bersin, mata berair, ulkus di mulut, demam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bersin",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "mata berair",
+                "start": 24,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "ulkus di mulut",
+                "start": 37,
+                "end": 51
+            },
+            {
+                "entity": "symptom",
+                "value": "demam.",
+                "start": 53,
+                "end": 59
+            }
+        ],
+        "responses": "Terapi suportif, menjaga hidrasi, dan pemberian antibiotik untuk mencegah infeksi bakteri sekunder."
+    },
+    {
+        "utterances": "Kucing saya mengalami Demam tinggi, muntah, diare berat, dehidrasi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam tinggi",
+                "start": 16,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 30,
+                "end": 36
+            },
+            {
+                "entity": "symptom",
+                "value": "diare berat",
+                "start": 38,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "dehidrasi.",
+                "start": 51,
+                "end": 61
+            }
+        ],
+        "responses": "Terapi cairan intensif, pemberian antibiotik untuk mencegah infeksi sekunder, dan isolasi untuk mencegah penularan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Bersin, mata merah, hidung berair, nafas tersengal. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bersin",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "mata merah",
+                "start": 24,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "hidung berair",
+                "start": 36,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "nafas tersengal.",
+                "start": 51,
+                "end": 67
+            }
+        ],
+        "responses": "Terapi suportif, menjaga kebersihan mata dan hidung, serta pemberian antibiotik jika ada infeksi sekunder."
+    },
+    {
+        "utterances": "Kucing saya mengalami Muntah, penurunan nafsu makan, kuning pada kulit dan mata (jaundice). Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 24,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "kuning pada kulit dan mata (jaundice).",
+                "start": 47,
+                "end": 85
+            }
+        ],
+        "responses": "Pemberian antibiotik, terapi cairan, dan diet khusus sesuai anjuran dokter hewan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gusi merah, bau mulut, kesulitan makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gusi merah",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "bau mulut",
+                "start": 28,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan makan.",
+                "start": 39,
+                "end": 55
+            }
+        ],
+        "responses": "Pembersihan gigi profesional, perawatan gigi di rumah, dan pemberian antibiotik jika ada infeksi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Peningkatan rasa haus, sering buang air kecil, penurunan berat badan, nafsu makan meningkat. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Peningkatan rasa haus",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "sering buang air kecil",
+                "start": 39,
+                "end": 61
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan",
+                "start": 63,
+                "end": 84
+            },
+            {
+                "entity": "symptom",
+                "value": "nafsu makan meningkat.",
+                "start": 86,
+                "end": 108
+            }
+        ],
+        "responses": "Pemberian insulin, diet khusus rendah karbohidrat, dan pemantauan kadar glukosa darah secara rutin."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan, nafsu makan meningkat, hiperaktif, muntah, diare, bulu kusam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "nafsu makan meningkat",
+                "start": 39,
+                "end": 60
+            },
+            {
+                "entity": "symptom",
+                "value": "hiperaktif",
+                "start": 62,
+                "end": 72
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 74,
+                "end": 80
+            },
+            {
+                "entity": "symptom",
+                "value": "diare",
+                "start": 82,
+                "end": 87
+            },
+            {
+                "entity": "symptom",
+                "value": "bulu kusam.",
+                "start": 89,
+                "end": 100
+            }
+        ],
+        "responses": "Pemberian obat antitiroid seperti methimazole, terapi radioiodine, atau operasi pengangkatan kelenjar tiroid yang terkena."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penambahan berat badan, letargi, bulu rontok, kulit kering. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penambahan berat badan",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi",
+                "start": 40,
+                "end": 47
+            },
+            {
+                "entity": "symptom",
+                "value": "bulu rontok",
+                "start": 49,
+                "end": 60
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit kering.",
+                "start": 62,
+                "end": 75
+            }
+        ],
+        "responses": "Terapi penggantian hormon tiroid sintetis dan pemantauan kadar hormon secara berkala."
+    },
+    {
+        "utterances": "Kucing saya mengalami Peningkatan rasa haus, sering buang air kecil, penurunan nafsu makan, penurunan berat badan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Peningkatan rasa haus",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "sering buang air kecil",
+                "start": 39,
+                "end": 61
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 63,
+                "end": 84
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan.",
+                "start": 86,
+                "end": 108
+            }
+        ],
+        "responses": "Diet khusus rendah fosfor dan protein, terapi cairan, dan pengobatan untuk mengendalikan gejala lain seperti tekanan darah tinggi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Batuk, kesulitan bernapas, penurunan berat badan, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan bernapas",
+                "start": 23,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan",
+                "start": 43,
+                "end": 64
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 66,
+                "end": 74
+            }
+        ],
+        "responses": "Tidak ada pengobatan yang aman dan efektif untuk heartworm pada kucing; fokus pada pencegahan dengan pemberian obat pencegahan heartworm secara rutin."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan, infeksi berulang, demam, pembengkakan kelenjar getah bening. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "infeksi berulang",
+                "start": 39,
+                "end": 55
+            },
+            {
+                "entity": "symptom",
+                "value": "demam",
+                "start": 57,
+                "end": 62
+            },
+            {
+                "entity": "symptom",
+                "value": "pembengkakan kelenjar getah bening.",
+                "start": 64,
+                "end": 99
+            }
+        ],
+        "responses": "Tidak ada pengobatan spesifik; fokus pada terapi suportif, pencegahan infeksi sekunder, dan menjaga kualitas hidup kucing."
+    },
+    {
+        "utterances": "Kucing saya mengalami Kesulitan bergerak, kekakuan, penurunan aktivitas, nyeri sendi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kesulitan bergerak",
+                "start": 16,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "kekakuan",
+                "start": 36,
+                "end": 44
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan aktivitas",
+                "start": 46,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "nyeri sendi.",
+                "start": 67,
+                "end": 79
+            }
+        ],
+        "responses": "Pemberian obat antiinflamasi nonsteroid (NSAID) yang aman untuk kucing, suplemen joint, dan manajemen berat badan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Demam, penurunan berat badan, penumpukan cairan di perut atau dada, lesu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan",
+                "start": 23,
+                "end": 44
+            },
+            {
+                "entity": "symptom",
+                "value": "penumpukan cairan di perut atau dada",
+                "start": 46,
+                "end": 82
+            },
+            {
+                "entity": "symptom",
+                "value": "lesu.",
+                "start": 84,
+                "end": 89
+            }
+        ],
+        "responses": "Tidak ada pengobatan yang efektif; fokus pada terapi suportif untuk menjaga kenyamanan kucing."
+    },
+    {
+        "utterances": "Kucing saya mengalami Berat badan berlebih, kesulitan bergerak, napas terengah-engah. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Berat badan berlebih",
+                "start": 16,
+                "end": 36
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan bergerak",
+                "start": 38,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "napas terengah-engah.",
+                "start": 58,
+                "end": 79
+            }
+        ],
+        "responses": "Diet rendah kalori, peningkatan aktivitas fisik, dan pemantauan berat badan secara rutin."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal pada telinga, keluarnya kotoran telinga berwarna gelap, sering menggaruk telinga. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal pada telinga",
+                "start": 16,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "keluarnya kotoran telinga berwarna gelap",
+                "start": 36,
+                "end": 76
+            },
+            {
+                "entity": "symptom",
+                "value": "sering menggaruk telinga.",
+                "start": 78,
+                "end": 103
+            }
+        ],
+        "responses": "Pemberian obat tetes telinga antiparasit, pembersihan telinga secara rutin, dan pengobatan terhadap semua hewan peliharaan di rumah."
+    },
+    {
+        "utterances": "Kucing saya mengalami Mata merah, keluarnya cairan dari mata, sering menggosok mata. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata merah",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "keluarnya cairan dari mata",
+                "start": 28,
+                "end": 54
+            },
+            {
+                "entity": "symptom",
+                "value": "sering menggosok mata.",
+                "start": 56,
+                "end": 78
+            }
+        ],
+        "responses": "Pemberian obat tetes mata antibiotik atau antiviral sesuai penyebab, menjaga kebersihan mata, dan menghindari iritan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal hebat, lesi kulit, kerontokan bulu, kulit berkerak. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal hebat",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "lesi kulit",
+                "start": 29,
+                "end": 39
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan bulu",
+                "start": 41,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit berkerak.",
+                "start": 58,
+                "end": 73
+            }
+        ],
+        "responses": "Pemberian antiparasit seperti ivermectin, pembersihan lingkungan, dan mandi dengan sampo khusus."
+    },
+    {
+        "utterances": "Kucing saya mengalami Lesi kulit melingkar, bulu rontok, kulit bersisik. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesi kulit melingkar",
+                "start": 16,
+                "end": 36
+            },
+            {
+                "entity": "symptom",
+                "value": "bulu rontok",
+                "start": 38,
+                "end": 49
+            },
+            {
+                "entity": "symptom",
+                "value": "kulit bersisik.",
+                "start": 51,
+                "end": 66
+            }
+        ],
+        "responses": "Pengobatan antijamur topikal atau oral, pembersihan area infeksi, dan menjaga kebersihan lingkungan untuk mencegah penularan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Batuk, kesulitan bernapas, napas berbunyi (wheezing), letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan bernapas",
+                "start": 23,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "napas berbunyi (wheezing)",
+                "start": 43,
+                "end": 68
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 70,
+                "end": 78
+            }
+        ],
+        "responses": "Pemberian bronkodilator, kortikosteroid, dan menghindari alergen pemicu."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal, kemerahan pada kulit, kerontokan bulu, lecet akibat garukan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kemerahan pada kulit",
+                "start": 23,
+                "end": 43
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan bulu",
+                "start": 45,
+                "end": 60
+            },
+            {
+                "entity": "symptom",
+                "value": "lecet akibat garukan.",
+                "start": 62,
+                "end": 83
+            }
+        ],
+        "responses": "Identifikasi dan eliminasi alergen, pemberian antihistamin atau kortikosteroid, dan menjaga kebersihan kulit."
+    },
+    {
+        "utterances": "Kucing saya mengalami Sering buang air kecil, kesulitan buang air kecil, darah dalam urin, menjilat area genital. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan buang air kecil",
+                "start": 40,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "darah dalam urin",
+                "start": 67,
+                "end": 83
+            },
+            {
+                "entity": "symptom",
+                "value": "menjilat area genital.",
+                "start": 85,
+                "end": 107
+            }
+        ],
+        "responses": "Pemberian antibiotik sesuai resep dokter hewan, peningkatan asupan air, dan diet khusus jika diperlukan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan drastis, muntah, letargi, ikterus (kulit dan mata menguning). Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan drastis",
+                "start": 16,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 47,
+                "end": 53
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi",
+                "start": 55,
+                "end": 62
+            },
+            {
+                "entity": "symptom",
+                "value": "ikterus (kulit dan mata menguning).",
+                "start": 64,
+                "end": 99
+            }
+        ],
+        "responses": "Terapi nutrisi intensif, seringkali melalui pemasangan selang makan, dan pengobatan suportif lainnya."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan, muntah, diare, pembesaran kelenjar getah bening, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 39,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "diare",
+                "start": 47,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "pembesaran kelenjar getah bening",
+                "start": 54,
+                "end": 86
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 88,
+                "end": 96
+            }
+        ],
+        "responses": "Kemoterapi dan terapi suportif sesuai anjuran dokter hewan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gejala bervariasi tergantung lokasi, termasuk benjolan, penurunan berat badan, dan perubahan perilaku. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gejala bervariasi tergantung lokasi",
+                "start": 16,
+                "end": 51
+            },
+            {
+                "entity": "symptom",
+                "value": "termasuk benjolan",
+                "start": 53,
+                "end": 70
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan",
+                "start": 72,
+                "end": 93
+            },
+            {
+                "entity": "symptom",
+                "value": "dan perubahan perilaku.",
+                "start": 95,
+                "end": 118
+            }
+        ],
+        "responses": "Pengobatan tergantung jenis dan stadium kanker, termasuk operasi, kemoterapi, atau radioterapi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gatal, kerontokan bulu, lesi kulit, penurunan berat badan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gatal",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan bulu",
+                "start": 23,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "lesi kulit",
+                "start": 40,
+                "end": 50
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan.",
+                "start": 52,
+                "end": 74
+            }
+        ],
+        "responses": "Pemberian antiparasit sesuai jenis parasit, menjaga kebersihan lingkungan, dan perawatan kulit yang tepat."
+    },
+    {
+        "utterances": "Kucing saya mengalami Gusi pucat, letargi, penurunan nafsu makan, penurunan berat badan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Gusi pucat",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi",
+                "start": 28,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 37,
+                "end": 58
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan.",
+                "start": 60,
+                "end": 82
+            }
+        ],
+        "responses": "Identifikasi dan pengobatan penyebab dasar, transfusi darah jika diperlukan, dan suplemen zat besi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Demam tinggi, letargi, nafas cepat, penurunan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam tinggi",
+                "start": 16,
+                "end": 28
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi",
+                "start": 30,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "nafas cepat",
+                "start": 39,
+                "end": 50
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan.",
+                "start": 52,
+                "end": 74
+            }
+        ],
+        "responses": "Pemberian antibiotik spektrum luas, terapi cairan intensif, dan perawatan suportif lainnya."
+    },
+    {
+        "utterances": "Kucing saya mengalami Muntah, diare berat, dehidrasi, demam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "diare berat",
+                "start": 24,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "dehidrasi",
+                "start": 37,
+                "end": 46
+            },
+            {
+                "entity": "symptom",
+                "value": "demam.",
+                "start": 48,
+                "end": 54
+            }
+        ],
+        "responses": "Terapi cairan intensif untuk mengatasi dehidrasi, pemberian antibiotik untuk mencegah infeksi sekunder, dan isolasi untuk mencegah penyebaran penyakit."
+    },
+    {
+        "utterances": "Kucing saya mengalami Demam, muntah, jaundice (kuning pada kulit dan mata), dehidrasi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 23,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "jaundice (kuning pada kulit dan mata)",
+                "start": 31,
+                "end": 68
+            },
+            {
+                "entity": "symptom",
+                "value": "dehidrasi.",
+                "start": 70,
+                "end": 80
+            }
+        ],
+        "responses": "Pemberian antibiotik seperti doxycycline, terapi cairan, dan pemantauan fungsi hati dan ginjal secara berkala."
+    },
+    {
+        "utterances": "Kucing saya mengalami Perubahan perilaku, paralisis, hidrofobia, agresi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Perubahan perilaku",
+                "start": 16,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "paralisis",
+                "start": 36,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "hidrofobia",
+                "start": 47,
+                "end": 57
+            },
+            {
+                "entity": "symptom",
+                "value": "agresi.",
+                "start": 59,
+                "end": 66
+            }
+        ],
+        "responses": "Tidak ada pengobatan efektif; fokus pada pencegahan melalui vaksinasi dan isolasi kucing yang terinfeksi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Lesi kulit, gatal, kerontokan bulu. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Lesi kulit",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "gatal",
+                "start": 28,
+                "end": 33
+            },
+            {
+                "entity": "symptom",
+                "value": "kerontokan bulu.",
+                "start": 35,
+                "end": 51
+            }
+        ],
+        "responses": "Pemberian antijamur topikal atau oral seperti itraconazole, menjaga kebersihan lingkungan, dan perawatan suportif."
+    },
+    {
+        "utterances": "Kucing saya mengalami Demam, muntah, diare, penurunan nafsu makan, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Demam",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 23,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "diare",
+                "start": 31,
+                "end": 36
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 38,
+                "end": 59
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 61,
+                "end": 69
+            }
+        ],
+        "responses": "Pemberian antibiotik seperti clindamycin, terapi cairan, dan isolasi untuk mengurangi risiko penularan ke manusia."
+    },
+    {
+        "utterances": "Kucing saya mengalami Batuk, kesulitan bernapas, mengi, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Batuk",
+                "start": 16,
+                "end": 21
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan bernapas",
+                "start": 23,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "mengi",
+                "start": 43,
+                "end": 48
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 50,
+                "end": 58
+            }
+        ],
+        "responses": "Pemberian antibiotik jika ada infeksi bakteri, bronkodilator untuk memperbaiki pernapasan, dan terapi antiinflamasi."
+    },
+    {
+        "utterances": "Kucing saya mengalami Sering buang air kecil, darah dalam urin, kesulitan buang air kecil. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "darah dalam urin",
+                "start": 40,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "kesulitan buang air kecil.",
+                "start": 58,
+                "end": 84
+            }
+        ],
+        "responses": "Operasi pengangkatan batu, diet khusus untuk melarutkan batu, dan terapi cairan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Muntah, penurunan nafsu makan, jaundice, penurunan berat badan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 24,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "jaundice",
+                "start": 47,
+                "end": 55
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan berat badan.",
+                "start": 57,
+                "end": 79
+            }
+        ],
+        "responses": "Pemberian diet khusus rendah protein, terapi cairan, dan pemantauan fungsi hati secara berkala."
+    },
+    {
+        "utterances": "Kucing saya mengalami Mata merah, penglihatan kabur, muntah, perilaku tidak normal. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Mata merah",
+                "start": 16,
+                "end": 26
+            },
+            {
+                "entity": "symptom",
+                "value": "penglihatan kabur",
+                "start": 28,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 47,
+                "end": 53
+            },
+            {
+                "entity": "symptom",
+                "value": "perilaku tidak normal.",
+                "start": 55,
+                "end": 77
+            }
+        ],
+        "responses": "Penggunaan obat antihipertensi seperti amlodipine, pemantauan tekanan darah secara berkala, dan diet rendah garam."
+    },
+    {
+        "utterances": "Kucing saya mengalami Penurunan berat badan, letargi, kehilangan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Penurunan berat badan",
+                "start": 16,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi",
+                "start": 39,
+                "end": 46
+            },
+            {
+                "entity": "symptom",
+                "value": "kehilangan nafsu makan.",
+                "start": 48,
+                "end": 71
+            }
+        ],
+        "responses": "Terapi nutrisi, pemberian stimulan nafsu makan, dan pemantauan berat badan secara berkala."
+    },
+    {
+        "utterances": "Kucing saya mengalami Sering buang air kecil, darah dalam urin, nyeri saat buang air kecil. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Sering buang air kecil",
+                "start": 16,
+                "end": 38
+            },
+            {
+                "entity": "symptom",
+                "value": "darah dalam urin",
+                "start": 40,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "nyeri saat buang air kecil.",
+                "start": 58,
+                "end": 85
+            }
+        ],
+        "responses": "Pemberian antibiotik, diet khusus untuk mencegah kristal urin, peningkatan asupan air, dan pemantauan jangka panjang."
+    },
+    {
+        "utterances": "Kucing saya mengalami Muntah, diare, penurunan nafsu makan, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Muntah",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "diare",
+                "start": 24,
+                "end": 29
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 31,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 54,
+                "end": 62
+            }
+        ],
+        "responses": "Diet rendah lemak, pemberian obat untuk mengontrol kadar lipid, dan pemantauan kadar lemak darah."
+    },
+    {
+        "utterances": "Kucing saya mengalami Kesulitan buang air besar, perut kembung, penurunan nafsu makan. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kesulitan buang air besar",
+                "start": 16,
+                "end": 41
+            },
+            {
+                "entity": "symptom",
+                "value": "perut kembung",
+                "start": 43,
+                "end": 56
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan.",
+                "start": 58,
+                "end": 80
+            }
+        ],
+        "responses": "Pemberian laksatif, diet tinggi serat, terapi cairan, dan dalam kasus parah, enema oleh dokter hewan."
+    },
+    {
+        "utterances": "Kucing saya mengalami Kelemahan otot, penurunan nafsu makan, letargi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Kelemahan otot",
+                "start": 16,
+                "end": 30
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 32,
+                "end": 53
+            },
+            {
+                "entity": "symptom",
+                "value": "letargi.",
+                "start": 55,
+                "end": 63
+            }
+        ],
+        "responses": "Suplemen kalium oral atau IV, pemantauan kadar kalium darah, dan pengobatan penyebab dasar."
+    },
+    {
+        "utterances": "Kucing saya mengalami Diare berat, muntah, demam, penurunan nafsu makan, dehidrasi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Diare berat",
+                "start": 16,
+                "end": 27
+            },
+            {
+                "entity": "symptom",
+                "value": "muntah",
+                "start": 29,
+                "end": 35
+            },
+            {
+                "entity": "symptom",
+                "value": "demam",
+                "start": 37,
+                "end": 42
+            },
+            {
+                "entity": "symptom",
+                "value": "penurunan nafsu makan",
+                "start": 44,
+                "end": 65
+            },
+            {
+                "entity": "symptom",
+                "value": "dehidrasi.",
+                "start": 67,
+                "end": 77
+            }
+        ],
+        "responses": "Terapi cairan intensif, pemberian antibiotik untuk infeksi sekunder, isolasi, dan terapi suportif."
+    },
+    {
+        "utterances": "Kucing saya mengalami Ulkus di mulut, pilek, bersin, demam, hipersalivasi. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Ulkus di mulut",
+                "start": 16,
+                "end": 30
+            },
+            {
+                "entity": "symptom",
+                "value": "pilek",
+                "start": 32,
+                "end": 37
+            },
+            {
+                "entity": "symptom",
+                "value": "bersin",
+                "start": 39,
+                "end": 45
+            },
+            {
+                "entity": "symptom",
+                "value": "demam",
+                "start": 47,
+                "end": 52
+            },
+            {
+                "entity": "symptom",
+                "value": "hipersalivasi.",
+                "start": 54,
+                "end": 68
+            }
+        ],
+        "responses": "Pemberian cairan untuk mencegah dehidrasi, obat antivirus, dan terapi suportif."
+    },
+    {
+        "utterances": "Kucing saya mengalami Bersin, mata merah, discharge dari mata dan hidung, demam. Apa yang harus saya lakukan?",
+        "intent": "medical_inquiry_kucing",
+        "entities": [
+            {
+                "entity": "animal",
+                "value": "Kucing",
+                "start": 0,
+                "end": 6
+            },
+            {
+                "entity": "symptom",
+                "value": "Bersin",
+                "start": 16,
+                "end": 22
+            },
+            {
+                "entity": "symptom",
+                "value": "mata merah",
+                "start": 24,
+                "end": 34
+            },
+            {
+                "entity": "symptom",
+                "value": "discharge dari mata dan hidung",
+                "start": 36,
+                "end": 66
+            },
+            {
+                "entity": "symptom",
+                "value": "demam.",
+                "start": 68,
+                "end": 74
+            }
+        ],
+        "responses": "Obat antivirus, antibiotik untuk infeksi sekunder, dan menjaga kebersihan mata serta hidung."
+    }
+]

@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Recurso Drive"
+   },
+   "Help": {
+      "message": "Como usar a ajuda"
+   },
+   "Homepage": {
+      "message": "Pagina inicial"
+   },
+   "RateUs": {
+      "message": "Avalie-nos!"
+   },
+   "appDescription": {
+      "message": "Tire selfies com sua câmera usando nossos divertidos efeitos gratuitos."
+   },
+   "appName": {
+      "message": "Câmera da web para Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "câmera web"
+   },
+   "msg_1": {
+      "message": "Câmera web"
+   },
+   "msg_10": {
+      "message": "Basta selecionar o efeito da câmera e clicar no botão"
+   },
+   "msg_11": {
+      "message": "TIRAR FOTOS"
+   },
+   "msg_12": {
+      "message": "Selecione o efeito da foto, ajuste os valores mínimo-máximo com o controle deslizante e clique no botão &quot;Tirar foto&quot; para tirar a foto."
+   },
+   "msg_13": {
+      "message": "Não consigo tirar fotos agora, desculpe ..."
+   },
+   "msg_14": {
+      "message": "Claro"
+   },
+   "msg_15": {
+      "message": "Salve sua foto"
+   },
+   "msg_16": {
+      "message": "Sua foto"
+   },
+   "msg_17": {
+      "message": "Fechar"
+   },
+   "msg_2": {
+      "message": "para Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Clique no"
+   },
+   "msg_4": {
+      "message": "TOME SELFIES"
+   },
+   "msg_5": {
+      "message": "para experimentar nossos efeitos divertidos"
+   },
+   "msg_6": {
+      "message": "Observe, a sessão de selfies já está em execução, todos os seus dados serão perdidos após você iniciar uma nova."
+   },
+   "msg_7": {
+      "message": "Iniciar sessão de selfies"
+   },
+   "msg_8": {
+      "message": "Tem certeza?"
+   },
+   "msg_9": {
+      "message": "Certifique-se de que não há outros sites e programas que possam estar usando sua câmera (Skype, chat, etc.)"
+   },
+   "name_1": {
+      "message": "Normal"
+   },
+   "name_2": {
+      "message": "Tons de Cinza"
+   },
+   "name_3": {
+      "message": "Sépia"
+   },
+   "name_4": {
+      "message": "Invertido"
+   },
+   "name_5": {
+      "message": "Matiz"
+   },
+   "name_6": {
+      "message": "Borrão"
+   },
+   "name_7": {
+      "message": "Contraste"
+   }
+}

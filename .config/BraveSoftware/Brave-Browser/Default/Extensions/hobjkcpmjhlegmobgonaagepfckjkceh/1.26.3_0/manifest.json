@@ -1,0 +1,48 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "/icons/128/codeium_square_logo.png",
+         "16": "/icons/16/codeium_square_logo.png",
+         "32": "/icons/32/codeium_square_logo.png",
+         "48": "/icons/48/codeium_square_logo.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Codeium"
+   },
+   "background": {
+      "service_worker": "serviceWorker.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "codeium.css" ],
+      "js": [ "contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Your modern coding superpower. Get code completions in Colab and more.",
+   "differential_fingerprint": "1.068131b4248bf9ef878c482fbae2851124f9d96251f09f7eb4df6c6146089e23",
+   "externally_connectable": {
+      "matches": [ "\u003Call_urls>" ]
+   },
+   "icons": {
+      "128": "/icons/128/codeium_square_logo.png",
+      "16": "/icons/16/codeium_square_logo.png",
+      "32": "/icons/32/codeium_square_logo.png",
+      "48": "/icons/48/codeium_square_logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtXwYnnP0MELt3cggEdHjCTINY0TcaUrmLqFjbV8G0eiUHv0JgVZ6hsVPbX1HEibCZFgMO9E7T9WC14ctAcrzOfK7gMM2vgXOH2esgm1CaiHFhsqCAeKDBG5yq+TZv8d0AraH8ErzqZ2YsVFanx5qeZ1TO6mWHeTAlyAVI2Bn9L4QmF3ZpJ6qSni/fb5nDNPu+k6/PmN0XtZUXuDESDhywEnpI01fjEfHj0cpTXhZH7n8BpWhNxXU3lyybyYdsHusjT+Xgd6hmgiyLC38iGyZ6HLBE7WBughWEA8lrswrraNN1q/KsqR7bczVxZ/VLfAwGoEIS5JIOIuD3e21DrfppQIDAQAB",
+   "manifest_version": 3,
+   "name": "Codeium: AI Code Autocompletion on all IDEs",
+   "options_ui": {
+      "browser_style": true,
+      "open_in_tab": false,
+      "page": "options.html"
+   },
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.26.3",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "script.js" ]
+   } ]
+}

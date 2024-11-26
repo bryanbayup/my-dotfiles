@@ -1,0 +1,6 @@
+2024/10/03-08:53:56.816 b26 Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hp.com_0.indexeddb.leveldb since it was missing.
+2024/10/03-08:53:56.822 b26 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.hp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/03-08:55:10.392 b27 Level-0 table #5: started
+2024/10/03-08:55:10.396 b27 Level-0 table #5: 1868 bytes OK
+2024/10/03-08:55:10.399 b27 Delete type=0 #3
+2024/10/03-08:55:10.400 b27 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

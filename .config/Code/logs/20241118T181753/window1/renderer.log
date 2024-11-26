@@ -1,0 +1,26 @@
+2024-11-18 18:17:55.256 [info] Started local extension host with pid 15102.
+2024-11-18 18:17:56.117 [error] Extension 'ms-toolsai.tensorboard CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-18 18:17:58.752 [info] Settings Sync: Updating due to initialize
+2024-11-18 18:17:58.752 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.753 [info] Settings Sync: Authentication providers updated []
+2024-11-18 18:17:58.824 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.824 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 18:17:58.824 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.825 [info] Settings Sync: Authentication providers updated ["github"]
+2024-11-18 18:17:58.825 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.825 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:17:58.826 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.826 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:17:58.860 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 18:17:58.860 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.861 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:17:58.861 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-11-18 18:17:58.861 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:17:58.862 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:18:00.262 [error] [Extension Host] (node:15102) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2024-11-18 18:18:00.552 [info] [perf] Render performance baseline is 54ms
+2024-11-18 18:18:00.561 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:18:00.561 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:18:02.680 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:18:02.682 [info] Settings Sync: Authentication providers updated ["github","microsoft"]

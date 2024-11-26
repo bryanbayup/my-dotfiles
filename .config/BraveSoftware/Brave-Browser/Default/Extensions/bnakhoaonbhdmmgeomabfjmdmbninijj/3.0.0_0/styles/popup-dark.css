@@ -1,0 +1,186 @@
+body {
+  background-color: #181819;
+  color: #E8EAED;
+}
+
+header.header,
+header.header .bg-light  {
+  background-color: #262626 !important;
+}
+
+.header h1 {
+  color: #555;
+}
+
+.footer {
+  
+  
+}
+
+
+.tool-btn:hover{
+  opacity:.8;
+}
+
+.tool-btn.warn{
+  background:#ff1744;
+  border: 1px #ff1744 solid;
+}
+
+
+.contentDiv a {
+  color: #E8EAED;
+}
+.item:hover {
+  color: #292A2D;
+}
+.item2:hover a{
+  color: #292A2D;
+}
+
+#searchQ{
+  border-color: #305464;
+  color: #E8EAED;
+}
+button {
+  background-color: #292A2D;
+  border-color: #305464;
+}
+
+::-webkit-scrollbar-track {
+  background:#292A2D;
+}
+/*bootstrap override*/
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #DEE2E5;
+  background-color: #495057;
+  border-color: #dee2e6 #dee2e6 #495057;
+  
+}
+.nav-tabs {
+  border-bottom: 1px solid #dee2e6;
+}
+.form-control{
+  color:#E8EAED
+}
+
+.btn-outline-dark {
+  color: #dee2e6;
+  border-color: #dee2e6;
+}
+.border {
+  border: 1px solid #dee2e6!important;
+  border-radius:10px;
+}
+
+.modal-help-content{
+  color:#000;
+}
+/*end bootstrap override*/
+
+.tab-content{
+  background-color: #495057;
+  border-width: 1px;
+  border-style:solid;
+  border-color: #495057 #dee2e6 #dee2e6 #dee2e6;
+  padding:10px;
+  
+}
+
+section {
+  background: #495057;
+  border: 1px #dee2e6 solid;
+  color: #E8EAED;
+}
+
+section.nope .btn.ppt-collapse,
+section.nope .btn.room-ppt-controls{
+  border-color:#dee2e6;
+  color:#dee2e6;
+}
+
+.options-tab section ul {
+  color: #E8EAED;
+}
+
+.options-tab a:hover,
+.options-tab label:hover {
+	color: #181819;
+	cursor: pointer;
+}
+
+.dropdown-menu {
+  border: 1px solid #dee2e6;
+  background: #181819;
+}
+
+.options-tab a {
+  color: #dee2e6;
+ 
+}
+
+.more-info blockquote {
+  background: #191919;
+  color: #f1f1f1;
+}
+
+.more-info blockquote:after {
+	border-top: 20px solid #191919;
+}
+
+.more-info:before {
+  content: '';
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: 1px;
+  vertical-align: middle;
+  background: url(/images/info-light.svg) center/contain no-repeat;
+}
+
+.counts {
+  color:#191919;
+}
+
+
+button.small-btn {
+  
+  background-color: #191919;
+  border: 1px #191919 solid;
+  
+}
+
+button.small-btn.dark{
+  background-color:#495057;
+  
+}
+button.small-btn.light{
+  background-color:#191919;
+  
+}
+
+button.small-btn.func{
+  background-color:#00bfa5;
+  border: 1px #27beaa solid;
+}
+
+#timer {
+  border: 1px solid #262626;
+  border-bottom: 0;
+  padding: 2px 7px;
+  margin-top: 5px;
+  font-size: 18px;
+  color: #fff;
+  background-color: #262626;
+}
+
+.timer-wrapper {
+  border: 1px solid #262626;
+  width: 150px;
+  border-radius: 50px;
+  background-color: #262626;
+  padding: 7px 7px;
+  padding-top: 5px;
+  padding-right: 5px;
+}

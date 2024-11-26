@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Funció del disc"
+   },
+   "Help": {
+      "message": "Com s&#39;utilitza l&#39;ajuda"
+   },
+   "Homepage": {
+      "message": "Pàgina inicial"
+   },
+   "RateUs": {
+      "message": "Valoreu-nos!"
+   },
+   "appDescription": {
+      "message": "Feu selfies amb la càmera amb els nostres efectes divertits gratuïts."
+   },
+   "appName": {
+      "message": "Càmera web per a Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "càmera web"
+   },
+   "msg_1": {
+      "message": "Càmera web"
+   },
+   "msg_10": {
+      "message": "Simplement seleccioneu l&#39;efecte de la càmera i feu clic al botó"
+   },
+   "msg_11": {
+      "message": "FER UNA FOTO"
+   },
+   "msg_12": {
+      "message": "Seleccioneu l&#39;efecte de la foto, ajusteu els valors mínims i màxims mitjançant el control lliscant i feu clic al botó &quot;Fes una foto&quot; per fer la captura instantània."
+   },
+   "msg_13": {
+      "message": "No puc fer fotos ara mateix, ho sento ..."
+   },
+   "msg_14": {
+      "message": "Clar"
+   },
+   "msg_15": {
+      "message": "Deseu la vostra foto"
+   },
+   "msg_16": {
+      "message": "La seva foto"
+   },
+   "msg_17": {
+      "message": "a prop"
+   },
+   "msg_2": {
+      "message": "per a Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Feu clic a"
+   },
+   "msg_4": {
+      "message": "AGAFAR-SE"
+   },
+   "msg_5": {
+      "message": "per provar els nostres divertits efectes"
+   },
+   "msg_6": {
+      "message": "Tingueu en compte que la sessió de selfies ja s’està executant, totes les vostres dades es perdran després d’iniciar-ne una de nova."
+   },
+   "msg_7": {
+      "message": "Inicia la sessió de selfies"
+   },
+   "msg_8": {
+      "message": "Estàs segur?"
+   },
+   "msg_9": {
+      "message": "Assegureu-vos que no hi ha cap altre lloc web i programes que puguin utilitzar la vostra càmera (Skype, xat, etc.)"
+   },
+   "name_1": {
+      "message": "normal"
+   },
+   "name_2": {
+      "message": "Escala de grisos"
+   },
+   "name_3": {
+      "message": "Sèpia"
+   },
+   "name_4": {
+      "message": "Inverteix"
+   },
+   "name_5": {
+      "message": "matís"
+   },
+   "name_6": {
+      "message": "taca"
+   },
+   "name_7": {
+      "message": "contrastar"
+   }
+}

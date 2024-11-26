@@ -1,0 +1,13 @@
+2024/11/23-19:12:49.403 d80 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kampusmerdeka.kemdikbud.go.id_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-19:12:49.404 d80 Recovering log #32
+2024/11/23-19:12:49.407 d80 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_kampusmerdeka.kemdikbud.go.id_0.indexeddb.leveldb/000032.log 
+2024/11/23-19:12:49.542 d81 Level-0 table #37: started
+2024/11/23-19:12:49.550 d81 Level-0 table #37: 47676 bytes OK
+2024/11/23-19:12:49.559 d81 Delete type=0 #32
+2024/11/23-19:12:49.559 d8f Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-19:12:50.493 d80 Compacting 1@1 + 1@2 files
+2024/11/23-19:12:50.506 d80 Generated table #38@1: 201 keys, 41848 bytes
+2024/11/23-19:12:50.506 d80 Compacted 1@1 + 1@2 files => 41848 bytes
+2024/11/23-19:12:50.519 d80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-19:12:50.520 d80 Delete type=2 #37
+2024/11/23-19:12:50.520 d80 Delete type=2 #34

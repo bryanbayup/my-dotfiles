@@ -1,0 +1,26 @@
+untitled:Untitled-1 {"typeId":""}
+Pet Point Project
+
+The "Pet Point" project is all about creating an app to help residents in residential complexes take care of stray animals, especially cats and dogs. This app is designed to make it easier and faster for people to assist these animals by connecting them with local volunteers and providing simple care tips. The project focuses on the common struggles people face, like not knowing how to deal with sick animals or being afraid of getting sick themselves.
+
+From surveys and conversations with residents, we found:
+- 81.6% have trouble helping sick animals.
+- 78.9% are worried about health risks when helping stray animals.
+- Everyone agreed that having an emergency feature to connect with volunteers is a great idea.
+
+Based on this, our team created two main features:
+- "Resque": An emergency feature where users can report stray animals in distress. The user’s report will be sent to local volunteers in the complex, who can come and help.
+- "Chatbot": An AI-powered chatbot that helps users figure out the animal’s health condition and gives suggestions for first-aid care.
+To make sure this app meets the residents’ needs, we conducted surveys and interviews, studied similar apps, and designed a clear plan. By focusing on residential complexes, we’re making this project more specific and useful for small communities.
+
+The project is planned to take six weeks, with specific tasks for each phase:
+Research and Planning: We identified what residents need and created a wireframe for the app using Figma.
+Design and Prototype: The app design is simple and user-friendly, so it’s easy for anyone to use. We also built a prototype to make sure everything flows smoothly.
+Technology Development:
+The backend is built with Node.js and MySQL to manage reports and volunteer data.
+The chatbot is created using TensorFlow with NLP technology to give quick and accurate answers about animal health.
+Risk Management:
+Internal risks like schedule conflicts with school or work will be handled through weekly check-ins.
+External risks like limited datasets or a lack of volunteers will be solved by finding more data and working with local communities.
+Testing and Feedback: All features will be tested to ensure they work properly. We’ll also gather feedback from early users to make improvements before launching.
+With "Pet Point", we hope to make it easier for residents to care for stray animals in their area while promoting kindness and awareness in their community. This app is more than just a tool—it’s a way to bring people together to help animals in need. 

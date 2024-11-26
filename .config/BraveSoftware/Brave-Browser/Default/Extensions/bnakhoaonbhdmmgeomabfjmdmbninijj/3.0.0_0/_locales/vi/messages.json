@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Tính năng lái xe"
+   },
+   "Help": {
+      "message": "Cách sử dụng trợ giúp"
+   },
+   "Homepage": {
+      "message": "Trang chủ"
+   },
+   "RateUs": {
+      "message": "Hãy đánh giá chúng tôi!"
+   },
+   "appDescription": {
+      "message": "Chụp ảnh selfie bằng máy ảnh của bạn bằng cách sử dụng các hiệu ứng vui nhộn miễn phí của chúng tôi."
+   },
+   "appName": {
+      "message": "Máy ảnh web dành cho Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "máy ảnh web"
+   },
+   "msg_1": {
+      "message": "Máy ảnh web"
+   },
+   "msg_10": {
+      "message": "Chỉ cần chọn hiệu ứng máy ảnh và nhấp vào nút"
+   },
+   "msg_11": {
+      "message": "CHỤP HÌNH"
+   },
+   "msg_12": {
+      "message": "Chọn hiệu ứng ảnh, điều chỉnh giá trị tối thiểu-tối đa qua thanh trượt và nhấp vào nút &quot;Chụp ảnh&quot; để chụp nhanh."
+   },
+   "msg_13": {
+      "message": "Không thể chụp ảnh ngay bây giờ, xin lỗi ..."
+   },
+   "msg_14": {
+      "message": "Thông thoáng"
+   },
+   "msg_15": {
+      "message": "Lưu ảnh của bạn"
+   },
+   "msg_16": {
+      "message": "Ảnh của bạn"
+   },
+   "msg_17": {
+      "message": "Gần"
+   },
+   "msg_2": {
+      "message": "cho Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Nhấn vào"
+   },
+   "msg_4": {
+      "message": "LẤY TỰ TIN"
+   },
+   "msg_5": {
+      "message": "để thử các hiệu ứng thú vị của chúng tôi"
+   },
+   "msg_6": {
+      "message": "Xin lưu ý, phiên chụp ảnh tự sướng đang chạy, tất cả dữ liệu của bạn sẽ bị mất sau khi bạn bắt đầu phiên làm việc mới."
+   },
+   "msg_7": {
+      "message": "Bắt đầu phiên chụp ảnh tự sướng"
+   },
+   "msg_8": {
+      "message": "Bạn có chắc không?"
+   },
+   "msg_9": {
+      "message": "Đảm bảo không có trang web và chương trình nào khác có thể đang sử dụng máy ảnh của bạn (Skype, trò chuyện, v.v.)"
+   },
+   "name_1": {
+      "message": "Bình thường"
+   },
+   "name_2": {
+      "message": "Thang độ xám"
+   },
+   "name_3": {
+      "message": "Màu nâu đỏ"
+   },
+   "name_4": {
+      "message": "Đảo ngược"
+   },
+   "name_5": {
+      "message": "Huế"
+   },
+   "name_6": {
+      "message": "Lờ mờ"
+   },
+   "name_7": {
+      "message": "Tương phản"
+   }
+}

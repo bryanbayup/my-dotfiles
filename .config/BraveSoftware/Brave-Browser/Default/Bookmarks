@@ -1,0 +1,234 @@
+{
+   "checksum": "9b46b182a2c5fdf03a31a451fb6196ae",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13369586212551044",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13371706976421350",
+               "date_last_used": "0",
+               "guid": "6f765912-c00a-4988-9c91-0caaf1afbcf8",
+               "id": "6",
+               "name": "ChatGPT",
+               "type": "url",
+               "url": "https://chatgpt.com/"
+            }, {
+               "date_added": "13371706976421645",
+               "date_last_used": "0",
+               "guid": "81c12da5-ec70-4b27-8db3-7d65dc635f1b",
+               "id": "7",
+               "name": "Click the link to log in - m704b4ky0875@bangkit.academy - Bangkit Academy Mail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/2/#inbox/FMfcgzQXJQKQRfnVJPMxNnVHcvVDNQjv"
+            }, {
+               "date_added": "13371706976421907",
+               "date_last_used": "0",
+               "guid": "a19e522b-4493-43d4-bf8d-bda45d81bcf2",
+               "id": "8",
+               "name": "Review: Creating new strings | Coursera",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/python-crash-course/supplement/DCZhJ/review-creating-new-strings"
+            }, {
+               "date_added": "13371706976422090",
+               "date_last_used": "0",
+               "guid": "fd910262-25ec-42b3-b49d-0f1e3edaa740",
+               "id": "9",
+               "name": "Saved Messages",
+               "type": "url",
+               "url": "https://web.telegram.org/a/#919079839"
+            }, {
+               "date_added": "13371706976422213",
+               "date_last_used": "0",
+               "guid": "08cf2a35-20da-4f7d-9611-4ef15edac801",
+               "id": "10",
+               "name": "API platform | OpenAI",
+               "type": "url",
+               "url": "https://openai.com/api/"
+            }, {
+               "date_added": "13371706976422327",
+               "date_last_used": "0",
+               "guid": "48025fd3-40c2-4e5a-9876-bd329c74f2aa",
+               "id": "11",
+               "name": "Reasoning - OpenAI API",
+               "type": "url",
+               "url": "https://platform.openai.com/docs/guides/reasoning/use-case-examples"
+            }, {
+               "date_added": "13371706976422527",
+               "date_last_used": "0",
+               "guid": "7d6b799f-9dec-42c3-b22a-ca44333147a4",
+               "id": "12",
+               "name": "OpenAI Cookbook",
+               "type": "url",
+               "url": "https://cookbook.openai.com/"
+            }, {
+               "date_added": "13374528936922507",
+               "date_last_used": "13375305312705796",
+               "guid": "825488e6-b502-4e6f-bce9-1ca2d8db72b8",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "dataset",
+               "type": "url",
+               "url": "https://huggingface.co/datasets/indonesian-nlp/eli5_id"
+            }, {
+               "date_added": "13375013790308487",
+               "date_last_used": "0",
+               "guid": "0fc29022-00eb-4eaf-8f1f-38aef3a7f562",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "irfnrdh/Awesome-Indonesia-NLP: Resource NLP & Bahasa",
+               "type": "url",
+               "url": "https://github.com/irfnrdh/Awesome-Indonesia-NLP?tab=readme-ov-file"
+            }, {
+               "date_added": "13376970428850014",
+               "date_last_used": "0",
+               "guid": "1b3a170f-5110-4d2c-b94a-5055bd3fdbfe",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Apa itu Ubuntu Pro dan Bagaimana Cara Mengaktifkannya? • Linux & Open Source",
+               "type": "url",
+               "url": "https://musaamin.web.id/apa-itu-ubuntu-pro-dan-cara-mengaktifkannya/"
+            } ],
+            "date_added": "13371706976420804",
+            "date_last_used": "0",
+            "date_modified": "13376970434272375",
+            "guid": "83094880-0de9-4b76-87b5-ad4c7653f7e3",
+            "id": "5",
+            "name": "New folder",
+            "type": "folder"
+         }, {
+            "date_added": "13373282522780650",
+            "date_last_used": "0",
+            "guid": "79bbc05a-0b66-41a8-a1ee-b7bf53ee7eeb",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Error 404 (Not Found)!!1",
+            "type": "url",
+            "url": "https://sites.google.com/bangkit.academy"
+         }, {
+            "date_added": "13374354188721102",
+            "date_last_used": "0",
+            "guid": "adf40795-3dad-4cd7-9d3b-f46af1582d92",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "belajar",
+            "type": "url",
+            "url": "https://www.guru99.com/id/"
+         }, {
+            "date_added": "13374382156080266",
+            "date_last_used": "13374387561111033",
+            "guid": "e2430d41-ecf4-439e-b3f1-fc7347d4d05c",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kamus Kata Dasar dan Stopword List Bahasa Indonesia » Putra Pandu Adikara のブログ",
+            "type": "url",
+            "url": "http://hikaruyuuki.lecture.ub.ac.id/kamus-kata-dasar-dan-stopword-list-bahasa-indonesia/"
+         } ],
+         "date_added": "13369586212551048",
+         "date_last_used": "0",
+         "date_modified": "13374528936922507",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13372419742481079",
+            "date_last_used": "0",
+            "guid": "23e18157-1666-4e2a-a56d-55e2c236a83c",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Capstone Project",
+            "type": "url",
+            "url": "https://sites.google.com/bangkit.academy/capstone"
+         }, {
+            "date_added": "13373282489591451",
+            "date_last_used": "0",
+            "guid": "a87b471a-83ee-464d-98d3-b5b083e294ea",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Capstone Project",
+            "type": "url",
+            "url": "https://sites.google.com/bangkit.academy/capstone/home?authuser=0"
+         }, {
+            "date_added": "13373521071746708",
+            "date_last_used": "13375012925316778",
+            "guid": "95b43c46-62ca-4e76-8940-182541fb7845",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DataPasar by Marketplace Insight (Open Access) › Home",
+            "type": "url",
+            "url": "https://lookerstudio.google.com/u/0/reporting/2bff927b-41d3-47c8-9e1b-0fb59bdadd3b/page/p_agytp6zvld"
+         }, {
+            "date_added": "13375540276156316",
+            "date_last_used": "0",
+            "guid": "d3060daf-0f34-4cfa-9520-cb5b9ebe07ce",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AI Engineer Roadmap",
+            "type": "url",
+            "url": "https://roadmap.sh/ai-engineer"
+         }, {
+            "date_added": "13375631366773824",
+            "date_last_used": "0",
+            "guid": "676120df-2247-498f-a6cc-fec43c19bdfd",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - rasbt/LLMs-from-scratch: Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "type": "url",
+            "url": "https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file#bonus-material"
+         }, {
+            "date_added": "13376564047429975",
+            "date_last_used": "0",
+            "guid": "d75aac85-d7fa-41f6-9522-09dc8c0be848",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/c/673d920a-8684-8013-85f8-bed78e0daf26"
+         } ],
+         "date_added": "13369586212551051",
+         "date_last_used": "0",
+         "date_modified": "13376970428850014",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqUiN6N7GQAAAAAEgAaWHVvcFhMWks5cUV4SFVWUDJ5V3Z2Znc2Nlo5czN1SXlsODJZQ0dzU25ndTNDamVmTWhIRkxkK0F1UStJeGxWQkZkOTRaOVNzcDU5a2IrZ2gvTVlJYXZnPT0qGC8vVXFnU0V5UzRZdURjYTBOR1Y3dlE9PUgDEqkBCCESpAEKHElFQ2Q3Q0VYQS9rRXJBT0h6QmhCRVpiZXZEaz0SJDIzMGYwNjY2LWY4YzUtNDQxYy05NzUxLWYzMzg1OTllMWNkNRgAIAMoAzCKhO+GtjI4stPuhrYyQOD97oa2Mkocd3poU2t0RHlRRUdnd3NUVzEwNWJId29MYlB3PVogIh7/tkgxK2N4Qk96L0dIUkpTN1hINkhveVEwbjM2cz1l+4mI/RKoAQgdEqMBChw5ZTRaWnlFTXQvdUFpaWJldm5zd2V1SlFoQWs9EiRlZWQxOTNkNi0yNjUzLTRkY2QtYmM3Zi1iMTIzYWM5NWEyNDkYACABKAEw6/y9qbEyOP3krIixMkC86L2psTJKHEpzdFlaNUFMRjUyb1hSM3hFTjE1dEJXVHVvcz1aHyId7mJqYlk1ZnhZa3NoT25aSlh0K0dEQ040RDBJUT1lyPM/uxKoAQgTEqMBChxrU1dOUHBEWFBObGJTK2ZVVm5TSXJkb01seDg9EiQ3MzQwNGYwMy1lY2NmLTQzMTktOTk4Yi0zYWYwZjI4NmNhZWEYACAAKAAwss664a4yOJLNipqpMkCSzYqaqTJKHEtEQi9GbG1kY3h4V3RNbHZMM2FUcm80Q2FOTT1aHyIdukhNamxBaEhEdkhtNy9rQ1NHYlB4OEsrWTBodz1liHJilhKoAQgaEqMBChxxWnZHVERwZkhVci9VMWJFWWxRREpLK0hNc3M9EiQ5MThhZjhkYS05ZDllLTQxNzItYTQ3ZS1kMGE4ZjUzNmE1YmQYACAAKAAw54nv4a4yOOX07uGuMkDl9O7hrjJKHGkwcXMrSHlSaVJsZk9leFE5ZHZFUG8zOWZ0Yz1aHyId/2w1ZVNWaWNMMmo0cG8rUS9EbnczcE9RTkZxOD1lyPM/uxKnAQgREqIBChxpS2c5VWpQSHlWa204dURoZmp0by9zQ0lsYzQ9EiQyMzE2YTk5MC01NjI3LTQyNDktYmI5ZC04NjIzMmJkNGU4N2EYACAAKAAwlYCrqKgyOJ3dqqioMkCd3aqoqDJKHGNPeG1VMTFPelJjWnhsZzE0MFJJMzNDVzdzcz1aHiIcaSs4LzlJNG15cktjOWZOdlI0Nnl5RUtHZTRrPWUAAAAAEqcBCA4SogEKHHpsRXcxcmovVEpGV0pBWHlBUURBc2YxNVRqRT0SJGY3ODIyMjU1LTRlZGEtNDRhZS1hNzgxLTU2NDQ0NjIzNjc1YxgAIAAoADC7ktzYqDI4pub2jKUyQKbm9oylMkocRzBuWHlRc2VIaE8rOS96dkMwMUp6OWJwNERjPVoeIhxPVjlMQ0d3cW9OWFA1OHgzdkhuSS9rZ0t1Rm89ZQncC+0SgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQxNzk2NWFjYS1mNWVmLTQ2MTEtYTNiZi0xMmE1ZmE3NTExMjYYACAAKAAwATim2orGmjJAptqKxpoyShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgVEqMBChx4YzA0Tk1kLzRyeG5CYWtmM3ZzN0RKUy9MeEE9EiRiOWI2MjdmOS1hNjczLTQ2YTItYWQxZS1iOWY0NWQ1YjIxMjgYACAAKAAw9eutp6wyOLGDrKesMkCxg6ynrDJKHHpncFUvb0ZEMUlzdFU2RGlrSkhoN1hjcmNTYz1aHyIdtCtIRHRMR0ZxMjM0QjlCUXNYZU5LWXNRTHlSWT1l/bsfJBKoAQgfEqMBChwzdkhGRzNHY1R1MFZINS9QUDdtTXdqSjZyQkk9EiRlMzNkYmJmNS05NjZiLTQ5NDAtODE1Yi1iNjM3OWUxNzk4ZmEYACACKAIwhqGLxbQyOMiMi8W0MkDSjIvFtDJKHEIxTWtVQmlNVlV5bk1Ja1N4RCt3ZmZWZDRDZz1aHyId90xxRXBrZXhINXFTbnNKa29zUVhNNXRVZWFEWT1lfC1UgBKnAQgQEqIBChwxRHlvbkhrL255Vkl1YWQySUZuZWpueEllams9EiRhZTBmYTNmNC04OWViLTQzMjQtYmJmYy1jYzUwOTVlZjkzOGUYACAAKAAwraKuqKgyOIfaqKioMkCH2qioqDJKHDBjU3l0WDlwMnMvOHJVbzk5cWRHKzBZQU1iOD1aHiIcdGUyUXpUa21wRytiN3NsdVAzNmtSTnNHV29vPWUJ3AvtEqgBCBgSowEKHExLK2k5bEJmVHV6Y0NXbW5teWFRSjBGQkEwcz0SJDE2YTJlNDM1LWZjMWMtNDJlZS04MWVmLTA3YmZlZWEwMGJkORgAIAAoADDh+IuXrTI42+fV+qwyQNvn1fqsMkocN0lsYU1wQm1kWEdRaFhVNS80a2ZoOTdqcEgwPVofIh3+VW5mMnUyY2JhYXVkZzhCTktnY3BUcFozaTdBPWWE4XiOEqgBCBYSowEKHHFsbUYzS0N3dXpPam5WYTMvaGpzL0liNEpabz0SJGNmYjg5ODUzLWVjMDEtNDBjZi1iNWViLWZlNjAxMWI5NDY3NBgAIAAoADCDifDnrjI4tILXtKwyQLSC17SsMkocWHJZWGs2Wnk0S1NGSnplamM4S1V6QWI2NzAwPVofIh3abHh4MU5SUEFLUWVjVVJEVmw2YnZqT3IxQ08wPWUAAAAAEqcBCAUSogEKHHJPWmJhWFkwY1NENUJmRDFxamVQc2YybWhvND0SJDFjYWZiOTBjLTFiM2UtNDBhOS1hMGVmLWQxZTMyYTQyNzlhYRgAIAAoADDYp4e5ojI4pYGHuaIyQKWBh7miMkocSmdWQUQrQjlHUEw2NUM1TnBnRi9UclVhNWxjPVoeIhw1RkZ5M3ZFRlZsRUVHZXlnbWdWQ1R5TU54RE09ZQAAAAASqAEICBKjAQoca0lVY2NBSzlDNEZ4SXkzTGo5Z0xtQS8rcFU4PRIkNTc1ZjYxOTUtMTEyOC00Y2I5LThiZDMtNzNjYjVjYzQ4MmZiGAAgACgAMJ6oh7miMjimgYe5ojJApoGHuaIyShw2NmF3RzdYTjBFZTVUR1lQcVlFOEJxTjlpaW89Wh8iHdtuNFZnOHIvYXMzRW9pYWxvV3FITExyTmwyb1E9ZSabvAASqAEIDBKjAQocb0cwcDJyZjBqTE12WkNGREVVRmFnaG5qZUM0PRIkZTg4ZDc3ZmItMTA0Mi00YmFlLWJjY2QtOTg4MDJkOTc1N2QwGAAgACgAMJOph7miMjimgYe5ojJApoGHuaIyShxRcjgwazlWcCt1WlJYdzBrNi9FL0czdzEyMDQ9Wh8iHf1SNEJaZWNoZkxJZ2puTEw2Sk15TnZKMjUwN1k9ZcyloqESrAEICRKnAQocakJ5Mkp4UzNkejdWbThvTkhqNTJWcEtaYXNRPRIkODI1ODVjZTEtMDRiOC00YTUxLWEzMjYtMGU2NzViYTZhMGE3GAAg478BKOO/ATCKmomltTI4poGHuaIyQIqaiaW1MkocRHl5U1Z2ZnA4WmFtQzVua21jbDA5dFN5TzdJPVofIh3tQzNsQnN6YW9FaVh5VkhPL2d4bitCSEtWc0RJPWWAVHWOEqgBCAcSowEKHFI0R2NDTnBabHVOWWoyS2d0bi8wUmpDczlRTT0SJDk4MjMxOGIxLWUzYjMtNDg5Ny04NWQwLTU1OWNhODlmMDdiMxgAIAAoADC5i4v1ojI4pYGHuaIyQKWBh7miMkocSTkwcklHb2JteGRQTUJ5Y01sdUtxZVNkMU9BPVofIh23VVNOQnE5WUIzQnViNlJ4ZmVLYngrQXAwZXB3PWUQMP/kEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkNDNlMTUzMmItZTI1ZC00ZTQ3LWExZWYtYjIzMTdlNTRhZTdhGAAgACgAMAE4ptqKxpoyQKbaisaaMkocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASgwEIAhJ/ChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5NDU3M2Y1YS1jMzYzLTQ0NTEtOWVmOC03MTBkOGZkYjQ4MWIYACAAKAAwATim2orGmjJAptqKxpoyShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgGEqIBChxGaFNXNXhnNWVmbXhuTFBnQzFpeFJOOEFHemM9EiRjODIzYWNiMC00OTg5LTQyMDktOTZhMy0xYWQxN2IwZTY4OGQYACAAKAAwrNGJ0rUyOKWBh7miMkCs0YnStTJKHEpHT2p5MHkrYnRMRFhZUXRVUzNtbzZqaTVxYz1aHiIcbjgvb2svSG0xV2Z1Vmpjc3RCM0VmcXhTN1J3PWW+DyI6EqgBCAsSowEKHFZMQ0FEREN5MUVLM0xtSTJqNWNJanE5czZQTT0SJGY1ZTY1N2E1LTE2NmEtNGZlOS04MjFkLTBlMjc0N2FjNTUwZRgAIAAoADD7qIe5ojI4poGHuaIyQKaBh7miMkocUWtxQlVXaFNCdmo1SFo1NzlWdVAvUzRsdkY0PVofIh37RHJBYjJ4UDZnVGs4ZFF3bFNmS0VJajBXZHgwPWWz2YtNEqgBCAoSowEKHCt6UzNmbjJQUEp4R3B5MWdmNW1GdEZFMlpNTT0SJGJiNmEzYTIyLTY2ZjItNGQ0My05ZDg2LWRhYmQ1Mjc5N2ZmYhgAIAAoADDoqIe5ojI4poGHuaIyQKaBh7miMkocMFRERDJ5SXB5VG9Hd1lIaVQxenhxZWt2Q2NJPVofIh32ODRGQkVrdktCelZ6OVgxV3liV3J1bHplWi93PWXCUvhjEqgBCBwSowEKHFg1b2tYZ3ZMZE1teGU0SmJsbFR6UTI1aFZFMD0SJDI0ZDllYWZiLWEzY2ItNDMyMC1hOTRmLTkwMTI3ZDIzOTIyZRgAIAEoATDI+/PRtTI4yof13LAyQMj789G1MkocWHpnMmM0bWZaSGlqZW5RL25INTZqdTBsTnZvPVofIh3daHcrTTZ3UDlWbFBKTWMxZzRUTzdKUVFzYjFrPWVOkwtRMAE4AA==",
+   "version": 1
+}

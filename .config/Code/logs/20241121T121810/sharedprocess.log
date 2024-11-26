@@ -1,0 +1,57 @@
+2024-11-21 12:18:18.221 [info] Getting Manifest... codeium.codeium
+2024-11-21 12:18:18.222 [info] Getting Manifest... eamodio.gitlens
+2024-11-21 12:18:18.224 [info] Getting Manifest... ms-python.debugpy
+2024-11-21 12:18:18.227 [info] Getting Manifest... ms-python.python
+2024-11-21 12:18:18.499 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":true,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bayu/.vscode/extensions/extensions.json","path":"/home/bayu/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-21 12:18:18.503 [info] Installing extension: ms-python.python {"installPreReleaseVersion":true,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bayu/.vscode/extensions/extensions.json","path":"/home/bayu/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-21 12:18:18.520 [info] Installing extension: codeium.codeium {"installPreReleaseVersion":true,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bayu/.vscode/extensions/extensions.json","path":"/home/bayu/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-21 12:18:18.554 [info] Installing extension: eamodio.gitlens {"installPreReleaseVersion":true,"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/bayu/.vscode/extensions/extensions.json","path":"/home/bayu/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-11-21 12:18:19.044 [info] Getting Manifest... ms-python.python
+2024-11-21 12:18:21.357 [info] Extension signature verification result for codeium.codeium: Success. Executed: true. Duration: 1117ms.
+2024-11-21 12:18:21.491 [info] Extracted extension to file:///home/bayu/.vscode/extensions/codeium.codeium-1.27.9: codeium.codeium
+2024-11-21 12:18:21.500 [info] Renamed to /home/bayu/.vscode/extensions/codeium.codeium-1.27.9
+2024-11-21 12:18:21.520 [info] Marked extension as uninstalled codeium.codeium-1.27.5
+2024-11-21 12:18:21.557 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-21 12:18:21.559 [info] Extension installed successfully: codeium.codeium vscode-userdata:/home/bayu/.vscode/extensions/extensions.json
+2024-11-21 12:18:38.128 [info] Extension signature verification result for eamodio.gitlens: Success. Executed: true. Duration: 1079ms.
+2024-11-21 12:18:38.520 [info] Extracted extension to file:///home/bayu/.vscode/extensions/eamodio.gitlens-2024.11.2004: eamodio.gitlens
+2024-11-21 12:18:38.547 [info] Renamed to /home/bayu/.vscode/extensions/eamodio.gitlens-2024.11.2004
+2024-11-21 12:18:38.602 [info] Marked extension as uninstalled eamodio.gitlens-2024.11.1804
+2024-11-21 12:18:38.638 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/bayu/.vscode/extensions/extensions.json
+2024-11-21 12:18:38.640 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-21 12:18:40.046 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 1170ms.
+2024-11-21 12:18:41.090 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 1383ms.
+2024-11-21 12:18:41.764 [info] Extracted extension to file:///home/bayu/.vscode/extensions/ms-python.debugpy-2024.13.2024111901-linux-x64: ms-python.debugpy
+2024-11-21 12:18:41.776 [info] Renamed to /home/bayu/.vscode/extensions/ms-python.debugpy-2024.13.2024111901-linux-x64
+2024-11-21 12:18:41.820 [info] Marked extension as uninstalled ms-python.debugpy-2024.13.2024111101-linux-x64
+2024-11-21 12:18:41.825 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/bayu/.vscode/extensions/extensions.json
+2024-11-21 12:18:41.862 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)
+2024-11-21 12:18:42.182 [info] Extracted extension to file:///home/bayu/.vscode/extensions/ms-python.python-2024.21.2024112001-linux-x64: ms-python.python
+2024-11-21 12:18:42.194 [info] Renamed to /home/bayu/.vscode/extensions/ms-python.python-2024.21.2024112001-linux-x64
+2024-11-21 12:18:42.223 [info] Marked extension as uninstalled ms-python.python-2024.21.2024111501-linux-x64
+2024-11-21 12:18:42.243 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/bayu/.vscode/extensions/extensions.json
+2024-11-21 12:18:42.281 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/bayu/.vscode/extensions/extensions.json.vsctmp'
+    at hm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39254)
+    at Es (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39361)
+    at Fr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:22677)
+    at Fr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:71:16010)
+    at async Zl.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:84491)
+    at async Jl.yb (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:70:66605)

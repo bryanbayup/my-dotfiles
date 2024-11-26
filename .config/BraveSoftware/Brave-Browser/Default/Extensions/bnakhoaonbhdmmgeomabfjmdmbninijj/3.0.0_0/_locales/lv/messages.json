@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Braukšanas funkcija"
+   },
+   "Help": {
+      "message": "Kā izmantot palīdzību"
+   },
+   "Homepage": {
+      "message": "Mājas lapa"
+   },
+   "RateUs": {
+      "message": "Lūdzu, novērtējiet mūs!"
+   },
+   "appDescription": {
+      "message": "Uzņemiet pašbildes ar savu kameru, izmantojot mūsu bezmaksas izklaides efektus."
+   },
+   "appName": {
+      "message": "Tīmekļa kamera pārlūkam Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "tīmekļa kamera"
+   },
+   "msg_1": {
+      "message": "Tīmekļa kamera"
+   },
+   "msg_10": {
+      "message": "Vienkārši atlasiet kameras efektu un noklikšķiniet uz pogas"
+   },
+   "msg_11": {
+      "message": "UZŅEMT BILDI"
+   },
+   "msg_12": {
+      "message": "Izvēlieties fotoattēla efektu, ar slīdni noregulējiet min-max vērtības un noklikšķiniet uz pogas &quot;Fotografēt&quot;, lai uzņemtu mirkli."
+   },
+   "msg_13": {
+      "message": "Pašlaik nevar fotografēt, atvainojiet ..."
+   },
+   "msg_14": {
+      "message": "Skaidrs"
+   },
+   "msg_15": {
+      "message": "Saglabājiet savu fotoattēlu"
+   },
+   "msg_16": {
+      "message": "Jūsu foto"
+   },
+   "msg_17": {
+      "message": "aizvērt"
+   },
+   "msg_2": {
+      "message": "pārlūkam Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Noklikšķiniet uz"
+   },
+   "msg_4": {
+      "message": "ŅEMIET SELFES"
+   },
+   "msg_5": {
+      "message": "lai izmēģinātu mūsu jautros efektus"
+   },
+   "msg_6": {
+      "message": "Lūdzu, ņemiet vērā, ka pašbildes sesija jau notiek, visi jūsu dati tiks zaudēti pēc jaunas sākšanas."
+   },
+   "msg_7": {
+      "message": "Sāciet selfiju sesiju"
+   },
+   "msg_8": {
+      "message": "Vai tu esi pārliecināts?"
+   },
+   "msg_9": {
+      "message": "Pārliecinieties, ka nav citu vietņu un programmu, kas varētu izmantot jūsu kameru (Skype, tērzēšana utt.)"
+   },
+   "name_1": {
+      "message": "normāls"
+   },
+   "name_2": {
+      "message": "Pelēktoņu"
+   },
+   "name_3": {
+      "message": "Sēpija"
+   },
+   "name_4": {
+      "message": "Apgriezt"
+   },
+   "name_5": {
+      "message": "nokrāsa"
+   },
+   "name_6": {
+      "message": "aizmiglot"
+   },
+   "name_7": {
+      "message": "kontrasts"
+   }
+}

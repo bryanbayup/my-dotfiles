@@ -1,0 +1,95 @@
+{
+  "Drive": {
+    "message": "Drive lögun"
+  },
+  "Homepage": {
+    "message": "Heimasíða"
+  },
+  "RateUs": {
+    "message": "Vinsamlegast metið okkur!"
+  },
+  "Help": {
+    "message": "Hvernig á að nota hjálpina"
+  },
+  "msg_3": {
+    "message": "Smelltu á"
+  },
+  "appName": {
+    "message": "Vefmyndavél fyrir Google Chrome ™"
+  },
+  "appShortName": {
+    "message": "vefmyndavél"
+  },
+  "appDescription": {
+    "message": "Taktu selfies með myndavélinni þinni með ókeypis skemmtilegu áhrifunum okkar."
+  },
+  "msg_1": {
+    "message": "Vefmyndavél"
+  },
+  "msg_2": {
+    "message": "fyrir Google Chrome ™"
+  },
+  "msg_4": {
+    "message": "TAKA SJÁLF"
+  },
+  "msg_5": {
+    "message": "fyrir að prófa skemmtilegu áhrifin okkar"
+  },
+  "msg_6": {
+    "message": "Vinsamlegast athugaðu, selfies fundur er þegar í gangi, öll gögn þín glatast þegar þú byrjar á nýjum."
+  },
+  "msg_7": {
+    "message": "Byrjaðu selfies fund"
+  },
+  "msg_8": {
+    "message": "Ertu viss?"
+  },
+  "msg_9": {
+    "message": "Vertu viss um að engar aðrar vefsíður og forrit, sem kunna að nota myndavélina þína (Skype, spjall osfrv.)"
+  },
+  "msg_10": {
+    "message": "Veldu bara myndavélaráhrif og smelltu á hnappinn"
+  },
+  "msg_11": {
+    "message": "TAKA MYND"
+  },
+  "msg_12": {
+    "message": "Veldu ljósmyndáhrif, stilltu lágmarks-hámarksgildi með renna og smelltu á „Taktu mynd“ hnappinn til að taka myndina þína."
+  },
+  "msg_14": {
+    "message": "Tær"
+  },
+  "msg_17": {
+    "message": "Loka"
+  },
+  "name_1": {
+    "message": "Venjulegt"
+  },
+  "name_4": {
+    "message": "Snúa við"
+  },
+  "name_5": {
+    "message": "Litblær"
+  },
+  "name_6": {
+    "message": "Óskýrt"
+  },
+  "name_7": {
+    "message": "Andstæður"
+  },
+  "msg_13": {
+    "message": "Get ekki tekið myndir núna, því miður ..."
+  },
+  "msg_15": {
+    "message": "Vista myndina þína"
+  },
+  "msg_16": {
+    "message": "Myndin þín"
+  },
+  "name_2": {
+    "message": "Gráskala"
+  },
+  "name_3": {
+    "message": "Sepia"
+  }
+}

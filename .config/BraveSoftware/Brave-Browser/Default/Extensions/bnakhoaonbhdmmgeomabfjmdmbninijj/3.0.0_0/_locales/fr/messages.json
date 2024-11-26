@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Fonction d&#39;entraînement"
+   },
+   "Help": {
+      "message": "Comment utiliser l&#39;aide"
+   },
+   "Homepage": {
+      "message": "Page d&#39;accueil"
+   },
+   "RateUs": {
+      "message": "Veuillez nous évaluer!"
+   },
+   "appDescription": {
+      "message": "Prenez des selfies avec votre appareil photo en utilisant nos effets amusants gratuits."
+   },
+   "appName": {
+      "message": "Caméra Web pour Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "webcam"
+   },
+   "msg_1": {
+      "message": "Webcam"
+   },
+   "msg_10": {
+      "message": "Sélectionnez simplement l&#39;effet de la caméra et cliquez sur le bouton"
+   },
+   "msg_11": {
+      "message": "PRENDRE UNE PHOTO"
+   },
+   "msg_12": {
+      "message": "Sélectionnez l&#39;effet photo, ajustez les valeurs min-max via le curseur et cliquez sur le bouton &quot;Prendre une photo&quot; pour prendre votre photo."
+   },
+   "msg_13": {
+      "message": "Je ne peux pas prendre de photos pour le moment, désolé..."
+   },
+   "msg_14": {
+      "message": "Clair"
+   },
+   "msg_15": {
+      "message": "Enregistrez votre photo"
+   },
+   "msg_16": {
+      "message": "Ta photo"
+   },
+   "msg_17": {
+      "message": "Fermer"
+   },
+   "msg_2": {
+      "message": "pour Google Chrome™"
+   },
+   "msg_3": {
+      "message": "Clique le"
+   },
+   "msg_4": {
+      "message": "PRENDRE DES SELFIES"
+   },
+   "msg_5": {
+      "message": "pour essayer nos effets amusants"
+   },
+   "msg_6": {
+      "message": "Veuillez noter que la session de selfies est déjà en cours, toutes vos données seront perdues une fois que vous en démarrerez une nouvelle."
+   },
+   "msg_7": {
+      "message": "Démarrer la session de selfies"
+   },
+   "msg_8": {
+      "message": "Es-tu sûr?"
+   },
+   "msg_9": {
+      "message": "Assurez-vous qu&#39;aucun autre site Web ou programme susceptible d&#39;utiliser votre appareil photo (Skype, chat, etc.)"
+   },
+   "name_1": {
+      "message": "Normal"
+   },
+   "name_2": {
+      "message": "Niveaux de gris"
+   },
+   "name_3": {
+      "message": "Sépia"
+   },
+   "name_4": {
+      "message": "Inverser"
+   },
+   "name_5": {
+      "message": "Teinte"
+   },
+   "name_6": {
+      "message": "Brouiller"
+   },
+   "name_7": {
+      "message": "Contraste"
+   }
+}

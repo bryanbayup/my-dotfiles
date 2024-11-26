@@ -1,0 +1,13 @@
+2024/11/11-19:32:46.040 8e4 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/11-19:32:46.040 8e4 Recovering log #105
+2024/11/11-19:32:46.040 8e4 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_codeium.com_0.indexeddb.leveldb/000105.log 
+2024/11/11-19:32:46.131 904 Level-0 table #111: started
+2024/11/11-19:32:46.137 904 Level-0 table #111: 800 bytes OK
+2024/11/11-19:32:46.145 904 Delete type=0 #105
+2024/11/11-19:32:46.145 8e4 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/11-19:33:19.217 8e6 Compacting 1@1 + 1@2 files
+2024/11/11-19:33:19.229 8e6 Generated table #112@1: 44 keys, 3736 bytes
+2024/11/11-19:33:19.229 8e6 Compacted 1@1 + 1@2 files => 3736 bytes
+2024/11/11-19:33:19.238 8e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/11-19:33:19.239 8e6 Delete type=2 #108
+2024/11/11-19:33:19.239 8e6 Delete type=2 #111

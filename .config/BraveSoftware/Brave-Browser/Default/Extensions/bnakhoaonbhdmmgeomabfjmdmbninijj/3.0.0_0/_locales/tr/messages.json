@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Sürüş özelliği"
+   },
+   "Help": {
+      "message": "Yardım Nasıl Kullanılır"
+   },
+   "Homepage": {
+      "message": "Anasayfa"
+   },
+   "RateUs": {
+      "message": "Lütfen Bizi Takip Edin!"
+   },
+   "appDescription": {
+      "message": "Ücretsiz eğlenceli efektlerimizi kullanarak kameranızla özçekim yapın."
+   },
+   "appName": {
+      "message": "Google Chrome ™ için Web Kamerası"
+   },
+   "appShortName": {
+      "message": "internet kamerası"
+   },
+   "msg_1": {
+      "message": "İnternet kamerası"
+   },
+   "msg_10": {
+      "message": "Sadece kamera efektini seçin ve düğmesine tıklayın"
+   },
+   "msg_11": {
+      "message": "FOTOĞRAF ÇEK"
+   },
+   "msg_12": {
+      "message": "Fotoğraf efektini seçin, kaydırıcı ile minimum-maks değerlerini ayarlayın ve fotoğrafınızı çekmek için &quot;Fotoğraf çek&quot; düğmesini tıklayın."
+   },
+   "msg_13": {
+      "message": "Şu Anda Fotoğraf Çekemiyorum, Üzgünüm..."
+   },
+   "msg_14": {
+      "message": "Açık"
+   },
+   "msg_15": {
+      "message": "Fotoğrafınızı Kaydedin"
+   },
+   "msg_16": {
+      "message": "Senin resmin"
+   },
+   "msg_17": {
+      "message": "Kapat"
+   },
+   "msg_2": {
+      "message": "Google Chrome™ için"
+   },
+   "msg_3": {
+      "message": "Tıkla"
+   },
+   "msg_4": {
+      "message": "KENDİ KENDİNİZİ YAPIN"
+   },
+   "msg_5": {
+      "message": "eğlenceli efektlerimizi denemek için"
+   },
+   "msg_6": {
+      "message": "Lütfen dikkat, özçekimler oturumu zaten çalışıyor, yenisini başlattıktan sonra tüm verileriniz kaybolacak."
+   },
+   "msg_7": {
+      "message": "Selfie oturumu başlat"
+   },
+   "msg_8": {
+      "message": "Emin misin?"
+   },
+   "msg_9": {
+      "message": "Kameranızı kullanabilecek başka web sitelerinin ve programların (Skype, sohbet vb.)"
+   },
+   "name_1": {
+      "message": "Normal"
+   },
+   "name_2": {
+      "message": "gri tonlamalı"
+   },
+   "name_3": {
+      "message": "Sepya"
+   },
+   "name_4": {
+      "message": "Ters çevir"
+   },
+   "name_5": {
+      "message": "renk"
+   },
+   "name_6": {
+      "message": "Bulanıklık"
+   },
+   "name_7": {
+      "message": "Kontrast"
+   }
+}

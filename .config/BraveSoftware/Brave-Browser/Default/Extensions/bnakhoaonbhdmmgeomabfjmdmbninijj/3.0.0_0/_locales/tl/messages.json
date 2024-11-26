@@ -1,0 +1,95 @@
+{
+  "Drive": {
+    "message": "Tampok ng drive"
+  },
+  "Homepage": {
+    "message": "Homepage"
+  },
+  "RateUs": {
+    "message": "Paki-rate sa Amin!"
+  },
+  "Help": {
+    "message": "Paano Gumamit ng Tulong"
+  },
+  "msg_3": {
+    "message": "I-click ang"
+  },
+  "appName": {
+    "message": "Web Camera para sa Google Chrome ™"
+  },
+  "appShortName": {
+    "message": "web camera"
+  },
+  "appDescription": {
+    "message": "Mag-selfie gamit ang iyong camera gamit ang aming libreng mga effects na masaya."
+  },
+  "msg_1": {
+    "message": "Web Camera"
+  },
+  "msg_2": {
+    "message": "para sa Google Chrome ™"
+  },
+  "msg_4": {
+    "message": "KUMUHA NG SARILI"
+  },
+  "msg_5": {
+    "message": "para subukan ang aming mga nakakatuwang epekto"
+  },
+  "msg_6": {
+    "message": "Mangyaring, pansinin, tumatakbo na ang sesyon ng mga selfie, mawawala ang lahat ng iyong data pagkatapos mong magsimula ng bago."
+  },
+  "msg_7": {
+    "message": "Simulan ang sesyon ng selfie"
+  },
+  "msg_8": {
+    "message": "Sigurado ka ba?"
+  },
+  "msg_9": {
+    "message": "Tiyaking walang ibang mga website at programa, na maaaring gumagamit ng iyong camera (Skype, chat, atbp.)"
+  },
+  "msg_10": {
+    "message": "Piliin lamang ang epekto ng camera at mag-click button"
+  },
+  "msg_11": {
+    "message": "KUNAN NG LITRATO"
+  },
+  "msg_12": {
+    "message": "Piliin ang epekto ng larawan, ayusin ang mga halagang min-max sa pamamagitan ng slider, at i-click ang pindutang &quot;Kumuha ng larawan&quot; upang mag-snap."
+  },
+  "msg_14": {
+    "message": "Maliwanag"
+  },
+  "msg_17": {
+    "message": "malapit"
+  },
+  "name_1": {
+    "message": "Normal"
+  },
+  "name_4": {
+    "message": "Baligtarin"
+  },
+  "name_5": {
+    "message": "kulay"
+  },
+  "name_6": {
+    "message": "lumabo"
+  },
+  "name_7": {
+    "message": "pag-ibahin"
+  },
+  "msg_13": {
+    "message": "Hindi Makakuha ng Mga Larawan Ngayon, Paumanhin ..."
+  },
+  "msg_15": {
+    "message": "I-save ang Iyong Larawan"
+  },
+  "msg_16": {
+    "message": "Ang iyong larawan"
+  },
+  "name_2": {
+    "message": "Grayscale"
+  },
+  "name_3": {
+    "message": "Sepia"
+  }
+}

@@ -1,0 +1,6 @@
+2024/10/24-12:36:21.093 9b3 Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_universe.roboflow.com_0.indexeddb.leveldb since it was missing.
+2024/10/24-12:36:21.099 9b3 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_universe.roboflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/24-12:37:05.046 9b4 Level-0 table #5: started
+2024/10/24-12:37:05.050 9b4 Level-0 table #5: 1126 bytes OK
+2024/10/24-12:37:05.054 9b4 Delete type=0 #3
+2024/10/24-12:37:05.055 9b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" type="image/ico" href="/images/icon-128.png" sizes="48x48">
+  <title data-i18n="appName">Popup</title>
+  <link rel="stylesheet" type="text/css" href="../styles/bootstrap.min.css">
+  
+  <link rel="stylesheet" type="text/css" href="../styles/fa.all.css">
+  <link rel="stylesheet" type="text/css" href="/libs/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="/libs/slick/slick-theme.css"/>
+
+  <link rel="stylesheet" type="text/css" href="../styles/selfies.css">
+  <link href="/styles/switcher.css" rel="stylesheet">
+  <link rel="stylesheet" href="/styles/selfies-dark.css" media="(prefers-color-scheme: dark)" id="dark-theme">
+  
+  
+
+</head>
+<body class="application" data-status="off">
+
+  <header class="header">
+    <div class="container">
+      <nav class="navbar navbar-light bg-light justify-content-between">
+        <a href="#" id="homeLink" target="_blank">
+          <h4 class="mt-2 d-inline" style="text-shadow: 0.5px 0.5px 1px grey">
+            <img class="ml-1 mr-1 pb-2" src="/images/icon-128.png" style="width: 32px;" alt="">
+            <span data-i18n="browserActionTitle">Web Camera for Google Chrome ™</span>
+          </h2>
+        </a>
+        <form class="form-inline">
+         
+          <div class="pr-2 pl-0 ml-2 d-inline">
+            <button id="help" class="tool-btn" type="button"  title="How To Use Help" data-i18nt="Help">
+              <i class="fas fa-question"></i>
+            </button>
+          </div>
+          <div class="pr-2 pl-0 ml-0 d-inline">
+            <button id="drive" class="tool-btn" type="button"  title="Drive feature" data-i18nt="Drive">
+              <i class="fab fa-google-drive"></i>
+              
+            </button>
+          </div>
+          <div class="pr-4 pl-0 ml-0 d-inline">
+            <span class="switcher switcher-1">
+              <input type="checkbox" id="switcher-1">
+              <label for="switcher-1"></label>
+            </span>
+          </div>      
+        </form>
+
+        <aside class="more-info">
+          <blockquote>
+            <div class="help-header">
+              <h2 data-i18n="Help">How To Use Help</h2>
+              <p data-i18n="msg_9">Be sure no other websites and programs, that may be using your camera (Skype, chat, etc.) </p>
+              <p>
+                <span data-i18n="msg_10">Just select camera effect and click button</span>  
+                <code class="button"><span data-i18n="msg_11">TAKE PHOTO</span></code> 
+              </p>
+            </div>
+          </blockquote>
+        </aside> 
+
+      </nav>
+    </div>
+  </header>
+
+  <main class="container options-tab">
+    <section>
+      <div class="slick-slider" name="filter" id="photo-filter">
+        <div>
+          <div class="slick-slider-item" data-item="1">
+            <div class="slick-slider-item-text" data-i18n="name_1" >Normal</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item"  data-item="2">
+            <div class="slick-slider-item-text" data-i18n="name_2">Grayscale</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item" data-item="3">
+            <div class="slick-slider-item-text" data-i18n="name_3" >Sepia</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item" data-item="4">
+            <div class="slick-slider-item-text" data-i18n="name_4" >Invert</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item" data-item="5">
+            <div class="slick-slider-item-text" data-i18n="name_5" >Hue</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item" data-item="6">
+            <div class="slick-slider-item-text" data-i18n="name_6" >Blur</div>
+          </div>
+        </div>
+        <div>
+          <div class="slick-slider-item" data-item="7">
+            <div class="slick-slider-item-text" data-i18n="name_7" >Contrast</div>
+          </div>
+        </div>
+      </div>
+      <!-- slider bar -->
+      
+      <div id="text" class="text-sample" >
+        <video id="video" data-i18n="msg_12">Select photo effect, and click "Take photo" button to take your snap.</video>
+        <div class="slidecontainer">
+          <input type="range" min="" max="" value="" class="slider" id="myRange">
+        </div>
+        <span id="help-msg" data-i18n="msg_12">Select photo effect, adjust min-max values via slider, and click "Take photo" button to take your snap.</span>
+      </div>
+      <div class="text-center">
+        <section class="d-inline mt-1 mb-1">
+          <div class="pr-0 pl-0 ml-0 d-inline">
+            <button id="photo-btn" type="button" class="small-btn func light" title="Take photo"  
+              disabled
+              data-i18nt="msg_11" >
+              <i class="fas fa-camera"></i>
+              <span data-i18n="msg_11">Take photo</span>
+            </button>
+          </div>
+          <div class="pr-0 pl-0 ml-0 d-inline">
+            <button id="clear-btn" type="button" class="small-btn func light" title="Clear"  
+              disabled
+              data-i18nt="msg_14">
+              <i class="fas fa-broom"></i>
+              <span data-i18n="msg_14">Clear</span>
+            </button>
+          </div>
+        </section>        
+        <canvas id="canvas"></canvas>
+      </div>
+    </section>
+  </main>
+  <!-- The Modal -->
+  <div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 data-i18n="msg_16">Your Photo</h2>
+        <span id="close-modal" class="close">&times;</span>
+        
+      </div>
+      
+      <div class="modal-body text-center" id="photos">
+                
+      </div>  
+      <div class="modal-footer text-center">
+        <section class="d-inline mt-1 mb-1">
+          <div class="pr-0 pl-0 ml-0 d-inline">
+            <button id="close-modal-btn" type="button" class="small-btn warn" data-dismiss="modal">
+              <i class="fas fa-door-open"></i>
+              <span data-i18n="msg_17">Close</span>
+            </button>
+              </div>
+          <div class="pr-0 pl-0 ml-0 d-inline">
+            <button type="button" class="small-btn func light" id="save-btn">
+              <i class="fas fa-file-download"></i>
+              <span data-i18n="msg_15">Save Your Photo</span>
+            </button> 
+          </div>
+        </section>        
+
+      </div>
+
+    </div>
+
+  </div>
+  <a id="download-link"></a>
+
+  <footer class="footer">
+    <div class="container text-center">
+      <a class="teaser" id="rate" href="#" target="_blank" >
+        <span data-i18n="RateUs">Please Rate Us!</span>
+        <br>
+        <span class="five-stars">⭑⭑⭑⭑⭑</span>
+      </a>
+    </div>
+  </footer>
+  <script src="/libs/jquery.js"></script>
+  <script src="/libs/popper.min.js"></script>
+  <script src="/libs/bootstrap.bundle.min.js"></script>
+  <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script-->
+  <script src="/libs/sweetalert2.js"></script>
+  <script src="/libs/browser.js"></script>
+  <script type="text/javascript" src="/libs/slick/slick.min.js"></script>
+  <script src="/libs/svg-inject.min.js"></script>
+  <script src="../scripts/shared.js"></script>
+  <script src="../scripts/theme.js"></script>
+  <script src="../scripts/Localization.js"></script>
+  <script src="../scripts/rate.js"></script>
+  <script src="../scripts/selfies.js"></script>
+  
+</body>
+</html>

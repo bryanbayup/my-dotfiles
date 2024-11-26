@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Funkcja jazdy"
+   },
+   "Help": {
+      "message": "Jak korzystać z pomocy"
+   },
+   "Homepage": {
+      "message": "Strona główna"
+   },
+   "RateUs": {
+      "message": "Oceń nas!"
+   },
+   "appDescription": {
+      "message": "Rób selfie aparatem, korzystając z naszych darmowych, zabawnych efektów."
+   },
+   "appName": {
+      "message": "Kamera internetowa dla Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "kamerka internetowa"
+   },
+   "msg_1": {
+      "message": "Kamerka internetowa"
+   },
+   "msg_10": {
+      "message": "Wystarczy wybrać efekt aparatu i kliknąć przycisk"
+   },
+   "msg_11": {
+      "message": "ZROBIĆ ZDJĘCIE"
+   },
+   "msg_12": {
+      "message": "Wybierz efekt fotograficzny, dostosuj wartości min-max za pomocą suwaka i kliknij przycisk „Zrób zdjęcie”, aby zrobić zdjęcie."
+   },
+   "msg_13": {
+      "message": "Nie mogę teraz robić zdjęć, przepraszam..."
+   },
+   "msg_14": {
+      "message": "Jasny"
+   },
+   "msg_15": {
+      "message": "Zapisz swoje zdjęcie"
+   },
+   "msg_16": {
+      "message": "Twoje zdjęcie"
+   },
+   "msg_17": {
+      "message": "Blisko"
+   },
+   "msg_2": {
+      "message": "dla przeglądarki Google Chrome™"
+   },
+   "msg_3": {
+      "message": "Kliknij"
+   },
+   "msg_4": {
+      "message": "ZABIERZ SELFIE"
+   },
+   "msg_5": {
+      "message": "aby wypróbować nasze zabawne efekty"
+   },
+   "msg_6": {
+      "message": "Proszę zauważyć, sesja selfie już trwa, wszystkie dane zostaną utracone po rozpoczęciu nowej."
+   },
+   "msg_7": {
+      "message": "Rozpocznij sesję selfie"
+   },
+   "msg_8": {
+      "message": "Jesteś pewny?"
+   },
+   "msg_9": {
+      "message": "Upewnij się, że żadne inne witryny i programy, które mogą korzystać z Twojej kamery (Skype, czat itp.)"
+   },
+   "name_1": {
+      "message": "Normalna"
+   },
+   "name_2": {
+      "message": "Skala szarości"
+   },
+   "name_3": {
+      "message": "Sepia"
+   },
+   "name_4": {
+      "message": "Odwracać"
+   },
+   "name_5": {
+      "message": "Odcień"
+   },
+   "name_6": {
+      "message": "Plama"
+   },
+   "name_7": {
+      "message": "Kontrast"
+   }
+}

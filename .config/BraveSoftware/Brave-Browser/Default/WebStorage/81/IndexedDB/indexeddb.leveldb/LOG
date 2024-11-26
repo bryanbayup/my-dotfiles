@@ -1,0 +1,6 @@
+2024/09/01-14:39:17.176 965 Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/WebStorage/81/IndexedDB/indexeddb.leveldb since it was missing.
+2024/09/01-14:39:17.187 965 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/WebStorage/81/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/09/01-14:46:56.536 966 Level-0 table #5: started
+2024/09/01-14:46:56.540 966 Level-0 table #5: 7346 bytes OK
+2024/09/01-14:46:56.544 966 Delete type=0 #3
+2024/09/01-14:46:56.545 966 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

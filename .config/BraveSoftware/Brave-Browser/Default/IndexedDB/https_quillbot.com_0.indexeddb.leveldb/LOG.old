@@ -1,0 +1,25 @@
+2024/11/23-18:15:24.269 d7f Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/23-18:15:24.269 d7f Recovering log #62
+2024/11/23-18:15:24.275 d7f Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_quillbot.com_0.indexeddb.leveldb/000062.log 
+2024/11/23-18:15:24.275 d7f Delete type=2 #60
+2024/11/23-18:15:24.276 d7f Delete type=2 #63
+2024/11/23-18:15:24.290 d80 Level-0 table #67: started
+2024/11/23-18:15:24.302 d80 Level-0 table #67: 480011 bytes OK
+2024/11/23-18:15:24.305 d80 Delete type=0 #62
+2024/11/23-18:15:24.305 d80 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-18:15:46.253 d80 Compacting 1@1 + 1@2 files
+2024/11/23-18:15:46.273 d80 Generated table #68@1: 891 keys, 502163 bytes
+2024/11/23-18:15:46.273 d80 Compacted 1@1 + 1@2 files => 502163 bytes
+2024/11/23-18:15:46.277 d80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-18:15:46.277 d80 Delete type=2 #67
+2024/11/23-18:15:46.277 d80 Delete type=2 #64
+2024/11/23-18:15:46.515 d81 Level-0 table #70: started
+2024/11/23-18:15:46.517 d81 Level-0 table #70: 1508 bytes OK
+2024/11/23-18:15:46.520 d81 Delete type=0 #66
+2024/11/23-18:15:46.520 d7f Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/23-18:16:00.002 d7f Compacting 1@1 + 1@2 files
+2024/11/23-18:16:00.045 d7f Generated table #71@1: 892 keys, 502333 bytes
+2024/11/23-18:16:00.045 d7f Compacted 1@1 + 1@2 files => 502333 bytes
+2024/11/23-18:16:00.048 d7f compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/23-18:16:00.049 d7f Delete type=2 #70
+2024/11/23-18:16:00.049 d7f Delete type=2 #68

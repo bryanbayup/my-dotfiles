@@ -1,0 +1,15 @@
+2024/10/28-23:36:10.355 82f Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/28-23:36:10.357 82f Recovering log #15
+2024/10/28-23:36:10.362 82f Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000015.log 
+2024/10/28-23:38:46.506 830 Level-0 table #20: started
+2024/10/28-23:38:46.518 830 Level-0 table #20: 24267 bytes OK
+2024/10/28-23:38:46.526 830 Delete type=0 #15
+2024/10/28-23:38:46.527 830 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/10/28-23:38:46.528 830 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00P\xcd\xa0?-yB' @ 3677 : 1
+2024/10/28-23:38:46.529 830 Compacting 1@1 + 1@2 files
+2024/10/28-23:38:46.540 830 Generated table #21@1: 34 keys, 771 bytes
+2024/10/28-23:38:46.540 830 Compacted 1@1 + 1@2 files => 771 bytes
+2024/10/28-23:38:46.544 830 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/28-23:38:46.545 830 Delete type=2 #17
+2024/10/28-23:38:46.545 830 Delete type=2 #20
+2024/10/28-23:38:46.547 830 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00P\xcd\xa0?-yB' @ 3677 : 1 .. (end); will stop at (end)

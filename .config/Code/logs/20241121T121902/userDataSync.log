@@ -1,0 +1,14 @@
+2024-11-21 12:19:04.436 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-11-21 12:19:04.436 [info] Auto Sync is enabled.
+2024-11-21 12:19:04.436 [info] Auto Sync: Suspended until auth token is available.
+2024-11-21 12:19:09.929 [info] Auto Sync: Triggered by Interval
+2024-11-21 12:19:09.930 [info] Sync started.
+2024-11-21 12:19:10.502 [info] Settings: No changes found during synchronizing settings.
+2024-11-21 12:19:10.511 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-11-21 12:19:10.519 [info] Snippets: No changes found during synchronizing snippets.
+2024-11-21 12:19:10.523 [info] Tasks: No changes found during synchronizing tasks.
+2024-11-21 12:19:10.530 [info] GlobalState: No changes found during synchronizing ui state.
+2024-11-21 12:19:11.195 [info] Extensions: Updated remote extensions. Updated: ["eamodio.gitlens"].
+2024-11-21 12:19:11.210 [info] Extensions: Updated last synchronized extensions. Skipped: ["zhang-renyang.chat-gpt"].
+2024-11-21 12:19:11.221 [info] Profiles: No changes found during synchronizing profiles.
+2024-11-21 12:19:11.229 [info] Sync done. Took 1298ms

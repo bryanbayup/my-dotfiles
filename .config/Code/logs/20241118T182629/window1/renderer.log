@@ -1,0 +1,8 @@
+2024-11-18 18:26:30.706 [info] Started local extension host with pid 15555.
+2024-11-18 18:26:31.261 [error] Extension 'ms-toolsai.tensorboard CANNOT USE these API proposals 'portsAttributes'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-11-18 18:26:32.864 [info] Settings Sync: Updating due to initialize
+2024-11-18 18:26:32.865 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-11-18 18:26:32.865 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-11-18 18:26:33.681 [info] [perf] Render performance baseline is 63ms
+2024-11-18 18:26:34.569 [error] [Extension Host] (node:15555) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)

@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Neural Writer"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "general.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "js": [ "math.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ]
+   }, {
+      "all_frames": true,
+      "js": [ "nw.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "Allow hard paraphrase/rewrite mode for neuralwriter",
+   "host_permissions": [ "*://*/*", "\u003Call_urls>" ],
+   "icons": {
+      "128": "128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuOMBpv0hh54l2WaSys3jr3DRNzckrMiZIOrnoFvacpuv+E5dBJrDU+X1ufE4aDEdyteynMnA9AfQIwoOm9QZ+CP0NC9slBm9/0uBqCuCL7hzeAjubKuHjgDcrFHyi4kuuAOWV66jLprsc+Xcs0+PZBbRJUa80946n8xYAv66194uRIwIBEl1gAOejg4Uy4z2i9EyDWmSVYRXs1mB0yHxDxUvnjoYtvCqjJXS5gevfWJBltf/ieqmAGN8vZcTR+Z47GEI5CS4qMMmMjntKxxLrCTFwr+R4odhYXuRfSNtW4zVM+aXHfzGDPqlPyaCzMdpFf+4rmNzVI7sENOrq2Te9QIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "96",
+   "name": "NeuralWriter — rewriting and paraphrasing",
+   "permissions": [ "scripting", "alarms", "background", "storage", "idle", "declarativeNetRequest", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.42",
+   "web_accessible_resources": [  ]
+}

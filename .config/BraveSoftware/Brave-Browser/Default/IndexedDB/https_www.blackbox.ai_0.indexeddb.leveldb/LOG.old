@@ -1,0 +1,14 @@
+2024/11/07-08:12:03.627 e23 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/07-08:12:03.627 e23 Recovering log #12
+2024/11/07-08:12:03.627 e23 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/000012.log 
+2024/11/07-08:12:03.627 e23 Delete type=2 #11
+2024/11/07-08:12:03.698 e2f Level-0 table #17: started
+2024/11/07-08:12:03.700 e2f Level-0 table #17: 668 bytes OK
+2024/11/07-08:12:03.702 e2f Delete type=0 #12
+2024/11/07-08:12:03.703 e23 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 118 : 1
+2024/11/07-08:12:03.703 e23 Compacting 1@0 + 1@1 files
+2024/11/07-08:12:03.705 e23 Generated table #18@0: 11 keys, 644 bytes
+2024/11/07-08:12:03.705 e23 Compacted 1@0 + 1@1 files => 644 bytes
+2024/11/07-08:12:03.708 e23 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/07-08:12:03.708 e23 Delete type=2 #17
+2024/11/07-08:12:03.708 e23 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 118 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

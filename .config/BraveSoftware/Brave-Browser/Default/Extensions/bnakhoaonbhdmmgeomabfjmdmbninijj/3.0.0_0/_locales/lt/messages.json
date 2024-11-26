@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Važiavimo funkcija"
+   },
+   "Help": {
+      "message": "Kaip naudotis pagalba"
+   },
+   "Homepage": {
+      "message": "Pradinis puslapis"
+   },
+   "RateUs": {
+      "message": "Prašau Įvertink mus!"
+   },
+   "appDescription": {
+      "message": "Fotografuokite asmenukes naudodami fotoaparatą naudodami nemokamus linksmus efektus."
+   },
+   "appName": {
+      "message": "„Google Chrome ™“ skirta žiniatinklio kamera"
+   },
+   "appShortName": {
+      "message": "internetinė kamera"
+   },
+   "msg_1": {
+      "message": "Internetinė kamera"
+   },
+   "msg_10": {
+      "message": "Tiesiog pasirinkite fotoaparato efektą ir spustelėkite mygtuką"
+   },
+   "msg_11": {
+      "message": "NUFOTOGRAFUOTI"
+   },
+   "msg_12": {
+      "message": "Pasirinkite nuotraukos efektą, per slankiklį sureguliuokite min-max reikšmes ir spustelėkite mygtuką „Fotografuoti“."
+   },
+   "msg_13": {
+      "message": "Negaliu fotografuoti dabar, atsiprašau ..."
+   },
+   "msg_14": {
+      "message": "Aišku"
+   },
+   "msg_15": {
+      "message": "Išsaugokite savo nuotrauką"
+   },
+   "msg_16": {
+      "message": "Jūsų nuotrauka"
+   },
+   "msg_17": {
+      "message": "Uždaryti"
+   },
+   "msg_2": {
+      "message": "skirta „Google Chrome ™“"
+   },
+   "msg_3": {
+      "message": "Spustelėkite"
+   },
+   "msg_4": {
+      "message": "IŠSIMOKITE"
+   },
+   "msg_5": {
+      "message": "norėdami išbandyti mūsų linksmus efektus"
+   },
+   "msg_6": {
+      "message": "Atminkite, kad asmenukių seansas jau vyksta, visi jūsų duomenys bus prarasti pradėjus naują."
+   },
+   "msg_7": {
+      "message": "Pradėkite asmenukių seansą"
+   },
+   "msg_8": {
+      "message": "Ar tu tuo tikras?"
+   },
+   "msg_9": {
+      "message": "Įsitikinkite, kad nėra kitų svetainių ir programų, kurios gali naudoti jūsų fotoaparatą („Skype“, pokalbiai ir pan.)"
+   },
+   "name_1": {
+      "message": "Normalus"
+   },
+   "name_2": {
+      "message": "Pilkos spalvos"
+   },
+   "name_3": {
+      "message": "Sepija"
+   },
+   "name_4": {
+      "message": "Apverskite"
+   },
+   "name_5": {
+      "message": "Atspalvis"
+   },
+   "name_6": {
+      "message": "migla"
+   },
+   "name_7": {
+      "message": "kontrastas"
+   }
+}

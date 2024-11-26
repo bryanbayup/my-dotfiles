@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "驱动功能"
+   },
+   "Help": {
+      "message": "如何使用帮助"
+   },
+   "Homepage": {
+      "message": "主页"
+   },
+   "RateUs": {
+      "message": "请给我们评分！"
+   },
+   "appDescription": {
+      "message": "使用我们免费的有趣效果用您的相机自拍。"
+   },
+   "appName": {
+      "message": "适用于 Google Chrome™ 的网络摄像头"
+   },
+   "appShortName": {
+      "message": "网络摄像头"
+   },
+   "msg_1": {
+      "message": "网络摄像头"
+   },
+   "msg_10": {
+      "message": "只需选择相机效果并单击按钮"
+   },
+   "msg_11": {
+      "message": "拍照"
+   },
+   "msg_12": {
+      "message": "选择照片效果，通过滑块调整最小值-最大值，然后单击“拍照”按钮进行拍照。"
+   },
+   "msg_13": {
+      "message": "暂时不能拍照，抱歉..."
+   },
+   "msg_14": {
+      "message": "明确"
+   },
+   "msg_15": {
+      "message": "保存您的照片"
+   },
+   "msg_16": {
+      "message": "你的照片"
+   },
+   "msg_17": {
+      "message": "关"
+   },
+   "msg_2": {
+      "message": "谷歌浏览器™"
+   },
+   "msg_3": {
+      "message": "点击"
+   },
+   "msg_4": {
+      "message": "自拍"
+   },
+   "msg_5": {
+      "message": "试试我们有趣的效果"
+   },
+   "msg_6": {
+      "message": "请注意，自拍会话已经在运行，您开始新的自拍后所有数据都将丢失。"
+   },
+   "msg_7": {
+      "message": "开始自拍会话"
+   },
+   "msg_8": {
+      "message": "你确定吗？"
+   },
+   "msg_9": {
+      "message": "确保没有其他网站和程序可能正在使用您的相机（Skype、聊天等）"
+   },
+   "name_1": {
+      "message": "正常"
+   },
+   "name_2": {
+      "message": "灰度"
+   },
+   "name_3": {
+      "message": "棕褐色"
+   },
+   "name_4": {
+      "message": "倒置"
+   },
+   "name_5": {
+      "message": "色调"
+   },
+   "name_6": {
+      "message": "模糊"
+   },
+   "name_7": {
+      "message": "对比"
+   }
+}

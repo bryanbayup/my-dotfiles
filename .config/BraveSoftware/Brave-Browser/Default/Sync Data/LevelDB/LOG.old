@@ -1,0 +1,15 @@
+2024/11/25-18:26:39.576 874 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/25-18:26:39.604 874 Recovering log #5657
+2024/11/25-18:26:39.607 874 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/005657.log 
+2024/11/25-19:09:42.050 876 Level-0 table #5661: started
+2024/11/25-19:09:42.058 876 Level-0 table #5661: 61108 bytes OK
+2024/11/25-19:09:42.062 876 Delete type=0 #5657
+2024/11/25-19:09:42.063 876 Compacting 4@0 + 1@1 files
+2024/11/25-19:09:42.079 876 Generated table #5662@0: 1186 keys, 77153 bytes
+2024/11/25-19:09:42.079 876 Compacted 4@0 + 1@1 files => 77153 bytes
+2024/11/25-19:09:42.083 876 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/25-19:09:42.084 876 Delete type=2 #5654
+2024/11/25-19:09:42.084 876 Delete type=2 #5656
+2024/11/25-19:09:42.084 876 Delete type=2 #5652
+2024/11/25-19:09:42.084 876 Delete type=2 #5661
+2024/11/25-19:09:42.085 876 Delete type=2 #5658

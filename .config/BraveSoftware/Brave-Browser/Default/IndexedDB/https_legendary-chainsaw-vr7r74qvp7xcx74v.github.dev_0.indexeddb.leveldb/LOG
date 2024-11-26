@@ -1,0 +1,6 @@
+2024/11/14-00:42:43.958 95c Creating DB /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_legendary-chainsaw-vr7r74qvp7xcx74v.github.dev_0.indexeddb.leveldb since it was missing.
+2024/11/14-00:42:43.967 95c Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_legendary-chainsaw-vr7r74qvp7xcx74v.github.dev_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/14-00:43:02.756 95e Level-0 table #5: started
+2024/11/14-00:43:02.760 95e Level-0 table #5: 30655 bytes OK
+2024/11/14-00:43:02.763 95e Delete type=0 #3
+2024/11/14-00:43:02.763 95e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

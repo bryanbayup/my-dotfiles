@@ -1,0 +1,95 @@
+{
+   "Drive": {
+      "message": "Fitur drive"
+   },
+   "Help": {
+      "message": "Bagaimana Menggunakan Bantuan"
+   },
+   "Homepage": {
+      "message": "Beranda"
+   },
+   "RateUs": {
+      "message": "Silakan Beri Nilai Kami!"
+   },
+   "appDescription": {
+      "message": "Ambil selfie dengan kamera Anda menggunakan efek menyenangkan gratis kami."
+   },
+   "appName": {
+      "message": "Kamera Web untuk Google Chrome ™"
+   },
+   "appShortName": {
+      "message": "kamera web"
+   },
+   "msg_1": {
+      "message": "Kamera web"
+   },
+   "msg_10": {
+      "message": "Cukup pilih efek kamera dan klik tombol"
+   },
+   "msg_11": {
+      "message": "MEMOTRET"
+   },
+   "msg_12": {
+      "message": "Pilih efek foto, sesuaikan nilai min-max melalui penggeser, dan klik tombol &quot;Ambil foto&quot; untuk mengambil foto Anda."
+   },
+   "msg_13": {
+      "message": "Tidak Dapat Mengambil Foto Sekarang, Maaf..."
+   },
+   "msg_14": {
+      "message": "Bersih"
+   },
+   "msg_15": {
+      "message": "Simpan Foto Anda"
+   },
+   "msg_16": {
+      "message": "Foto Anda"
+   },
+   "msg_17": {
+      "message": "Dekat"
+   },
+   "msg_2": {
+      "message": "untuk Google Chrome ™"
+   },
+   "msg_3": {
+      "message": "Klik"
+   },
+   "msg_4": {
+      "message": "ambil selfie"
+   },
+   "msg_5": {
+      "message": "untuk mencoba efek menyenangkan kami"
+   },
+   "msg_6": {
+      "message": "Harap perhatikan, sesi selfie sudah berjalan, semua data Anda akan hilang setelah Anda memulai yang baru."
+   },
+   "msg_7": {
+      "message": "Mulai sesi selfie"
+   },
+   "msg_8": {
+      "message": "Apa kamu yakin?"
+   },
+   "msg_9": {
+      "message": "Pastikan tidak ada situs web dan program lain, yang mungkin menggunakan kamera Anda (Skype, chat, dll.)"
+   },
+   "name_1": {
+      "message": "Normal"
+   },
+   "name_2": {
+      "message": "skala abu-abu"
+   },
+   "name_3": {
+      "message": "Warna coklat tua"
+   },
+   "name_4": {
+      "message": "Membalikkan"
+   },
+   "name_5": {
+      "message": "Warna"
+   },
+   "name_6": {
+      "message": "Mengaburkan"
+   },
+   "name_7": {
+      "message": "Kontras"
+   }
+}

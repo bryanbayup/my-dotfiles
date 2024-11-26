@@ -1,0 +1,28 @@
+{
+   "author": "Kyle Simpson",
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/external/webextension-polyfill.min.js", "js/controller.js" ]
+   },
+   "content_scripts": [  ],
+   "description": "Try to enforce HD (16:9) camera aspect ratio for web-video calls",
+   "icons": {
+      "128": "images/logo-128.png",
+      "16": "images/logo-16.png",
+      "24": "images/logo-24.png",
+      "32": "images/logo-32.png",
+      "48": "images/logo-48.png",
+      "96": "images/logo-96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAldOvq88SsmCcSoFttSf3d9yaiURvDohi+1L9SD5vhW+DFmIRov9jgaXs5kru/a2CqaaQU0rSAxXpQj0/Uen2VSHJV3T9WqIIZIeUbs+qVD9JH3f4SdyPJDHftLreNFrCkQhdWNNOY9+uE03FTBY4Dc5vM8PDbOgmsee72hmzXuRULVJceMsbrLVF7vvwaoxCuMtdLSI6Isipf+eKBxsO/RA5+jbobobJ4RS2PZaNbiq/miup0Fem2Qmbe/AlpGcgclk/8hQMXyX9pjXb4LhLc4Yy82p2zctHp//C/dFD4SKrQKq0T/JgWQfoEWYtTtXi10t1m3QN3knVXetu23ejwwIDAQAB",
+   "manifest_version": 2,
+   "name": "HD Camera Feed in Video Calls",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "settings.html"
+   },
+   "permissions": [ "https://*/*", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1",
+   "web_accessible_resources": [ "js/patch-gum.js" ]
+}

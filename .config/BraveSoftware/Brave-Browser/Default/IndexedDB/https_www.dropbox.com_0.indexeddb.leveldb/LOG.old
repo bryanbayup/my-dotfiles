@@ -1,0 +1,30 @@
+2024/11/21-14:18:30.960 8e7 Reusing MANIFEST /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-14:18:30.961 8e7 Recovering log #6
+2024/11/21-14:18:30.987 8e7 Reusing old log /home/bayu/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/000006.log 
+2024/11/21-14:19:23.597 8f5 Level-0 table #11: started
+2024/11/21-14:19:23.633 8f5 Level-0 table #11: 1097121 bytes OK
+2024/11/21-14:19:23.641 8f5 Delete type=0 #6
+2024/11/21-14:19:23.689 8e8 Compacting 1@1 + 1@2 files
+2024/11/21-14:19:23.717 8e8 Generated table #12@1: 310 keys, 32676 bytes
+2024/11/21-14:19:23.717 8e8 Compacted 1@1 + 1@2 files => 32676 bytes
+2024/11/21-14:19:23.725 8e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/21-14:25:04.320 8e8 Level-0 table #14: started
+2024/11/21-14:25:04.352 8e8 Level-0 table #14: 1060682 bytes OK
+2024/11/21-14:25:04.362 8e8 Delete type=2 #11
+2024/11/21-14:25:04.362 8e8 Delete type=2 #8
+2024/11/21-14:25:04.362 8e8 Delete type=0 #10
+2024/11/21-14:25:36.841 8e7 Compacting 1@1 + 1@2 files
+2024/11/21-14:25:36.866 8e7 Generated table #15@1: 128 keys, 10026 bytes
+2024/11/21-14:25:36.866 8e7 Compacted 1@1 + 1@2 files => 10026 bytes
+2024/11/21-14:25:36.874 8e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/21-14:25:36.874 8e7 Delete type=2 #14
+2024/11/21-14:25:36.874 8e7 Delete type=2 #12
+2024/11/21-16:05:33.237 8e7 Level-0 table #17: started
+2024/11/21-16:05:33.266 8e7 Level-0 table #17: 1065375 bytes OK
+2024/11/21-16:05:33.277 8e7 Delete type=0 #13
+2024/11/21-16:05:33.749 8e9 Compacting 1@1 + 1@2 files
+2024/11/21-16:05:33.774 8e9 Generated table #18@1: 126 keys, 11482 bytes
+2024/11/21-16:05:33.774 8e9 Compacted 1@1 + 1@2 files => 11482 bytes
+2024/11/21-16:05:33.782 8e9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/21-16:05:33.782 8e9 Delete type=2 #15
+2024/11/21-16:05:33.783 8e9 Delete type=2 #17
